@@ -1,0 +1,22 @@
+EXPORT-START src=undead/pirate-crewman-ghost/piratezombiemodel.blend dst=undead/pirate-crewman-ghost/piratezombiemodel.glb
+OPENED undead/pirate-crewman-ghost/piratezombiemodel.blend
+INFO Draco mesh compression is available, use library at /home/hatch/workspace/tools/blender-4.5.3-linux-x64/4.5/scripts/addons_core/io_scene_gltf2/libextern_draco.so
+17:54:44 | INFO: Starting glTF 2.0 export
+17:54:44 | WARNING: Armature must be the parent of skinned meshArmature is selected by its name, but may be false in case of instances
+17:54:44 | WARNING: Armature must be the parent of skinned meshArmature is selected by its name, but may be false in case of instances
+17:54:44 | INFO: Extracting primitive: Plane.002
+17:54:44 | INFO: Primitives created: 0
+17:54:44 | WARNING: Mesh 'Plane.002' has no primitives and will be omitted.
+17:54:44 | INFO: Extracting primitive: Cube.004
+17:54:44 | INFO: Primitives created: 1
+17:54:44 | INFO: Extracting primitive: meHumanMale.001
+17:54:44 | INFO: Primitives created: 5
+17:54:44 | INFO: Extracting primitive: Plane
+17:54:44 | INFO: Primitives created: 1
+17:54:44 | INFO: Finished glTF 2.0 export in 0.2638564109802246 s
+
+EXPORT-DONE dst=undead/pirate-crewman-ghost/piratezombiemodel.glb size=141644
+Blender 4.5.3 LTS (hash 67807e1800cc built 2025-09-09 01:38:15)
+Read blend: "/home/hatch/workspace/game/idle-dungeon-roguelike/assets/resources-phase1/models/undead/pirate-crewman-ghost/piratezombiemodel.blend"
+
+Blender quit

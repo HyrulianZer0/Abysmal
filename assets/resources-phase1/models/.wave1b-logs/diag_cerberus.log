@@ -1,0 +1,30 @@
+=== DIAG demons/animated-cerberus/cerberus_v002.blend ===
+scenes: ['Scene']
+collections: ['Collection 1', 'Collection 10', 'Collection 2']
+--- scene objects (4):
+  MESH       'Cerberus' parent=None hide_vp=False hide_render=False visible=True dims=(9.58, 18.431, 9.61)
+  ARMATURE   'Armature' parent=None hide_vp=False hide_render=False visible=False dims=(9.162, 18.431, 9.0)
+  LIGHT      'Lamp' parent=None hide_vp=False hide_render=False visible=False dims=(0.0, 0.0, 0.0)
+  CAMERA     'Camera' parent=None hide_vp=False hide_render=False visible=False dims=(0.0, 0.0, 0.0)
+--- all meshes in file (1):
+  mesh 'Cube.004' verts=350 polys=360 users=1
+--- armatures (1):
+  armature 'Armature' bones=48
+--- actions (5):
+  action 'Attack' frames=<Vector (1.0000, 41.0000)> users=1 fcurves=220
+  action 'die' frames=<Vector (1.0000, 35.0000)> users=1 fcurves=220
+  action 'hit' frames=<Vector (1.0000, 21.0000)> users=1 fcurves=220
+  action 'Idle' frames=<Vector (1.0000, 21.0000)> users=1 fcurves=220
+  action 'Walk' frames=<Vector (1.0000, 31.0000)> users=2 fcurves=230
+--- animated objects (animation_data):
+  obj 'Armature' active_action='Walk' nla_tracks=[]
+--- materials (1):
+  material 'Material.001' use_nodes=False images=[]
+--- images (1):
+  image 'cerberus_texture.png' filepath='//cerberus_texture.png' packed=False size=(512, 512)
+=== END DIAG ===
+Blender 4.5.3 LTS (hash 67807e1800cc built 2025-09-09 01:38:15)
+Read blend: "/home/hatch/workspace/game/idle-dungeon-roguelike/assets/resources-phase1/models/demons/animated-cerberus/cerberus_v002.blend"
+Warning: region type 4 missing in space type "Info" (id: 7) - removing region
+
+Blender quit

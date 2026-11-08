@@ -1,0 +1,15 @@
+IMPORT3DS-START src=dragons/dragon/dragon.3ds dst=dragons/dragon/dragon.glb
+3DS addon enabled: (False, True)
+importing 3DS: 'dragons/dragon/dragon.3ds'... done in 0.0206 sec.
+IMPORTED objects: ['Body']
+IMPORTED meshes: ['Body']
+18:03:59 | INFO: Draco mesh compression is available, use library at /home/hatch/workspace/tools/blender-3.6.23-linux-x64/3.6/python/lib/python3.10/site-packages/libextern_draco.so
+18:04:00 | INFO: Starting glTF 2.0 export
+18:04:00 | INFO: Extracting primitive: Body
+18:04:01 | INFO: Primitives created: 2
+18:04:01 | INFO: Finished glTF 2.0 export in 0.017423629760742188 s
+
+EXPORT-DONE dst=dragons/dragon/dragon.glb size=165252
+Blender 3.6.23 (hash e467db79ca8c built 2025-06-17 01:32:54)
+
+Blender quit

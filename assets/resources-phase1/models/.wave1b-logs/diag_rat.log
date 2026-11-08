@@ -1,0 +1,27 @@
+=== DIAG vermin/evil-giant-rat/rat.blend ===
+scenes: ['Scene']
+collections: ['Collection 1', 'Collection 10', 'Collection 11', 'Collection 12', 'Collection 13', 'Collection 14', 'Collection 15', 'Collection 16', 'Collection 17', 'Collection 18', 'Collection 19', 'Collection 20', 'Collection 3', 'Collection 4', 'Collection 5', 'Collection 6', 'Collection 7', 'Collection 8', 'Collection 9']
+--- scene objects (2):
+  MESH       'Cylinder.002' parent=None hide_vp=False hide_render=False visible=True dims=(1.244, 1.637, 7.163)
+  CAMERA     'Camera' parent=None hide_vp=False hide_render=False visible=False dims=(0.0, 0.0, 0.0)
+--- all meshes in file (1):
+  mesh 'Cylinder.002' verts=722 polys=1336 users=1
+--- armatures (0):
+--- actions (0):
+--- animated objects (animation_data):
+--- materials (1):
+  material 'Material_RAT_NORMAL' use_nodes=False images=[]
+--- images (7):
+  image 'RAT_NORMAL' filepath='' packed=False size=(1024, 1024)
+  image 'ratfur.jpg' filepath='//../DoWNLOADS/ratfur.jpg' packed=False size=(0, 0)
+  image 'rats.jpg' filepath='//../../../Documents/../Downloads/rats.jpg' packed=False size=(0, 0)
+  image 'ratUV.png' filepath='C:/Users/Ricia/Documents/ratUV.png' packed=True size=(1035, 1035)
+  image 'ratUV.png.001' filepath='C:/Users/Ricia/Documents/ratUV.png' packed=False size=(0, 0)
+  image 'Render Result' filepath='' packed=False size=(0, 0)
+  image 'untitled.001' filepath='//ratUV.png' packed=False size=(0, 0)
+=== END DIAG ===
+Blender 4.5.3 LTS (hash 67807e1800cc built 2025-09-09 01:38:15)
+Read blend: "/home/hatch/workspace/game/idle-dungeon-roguelike/assets/resources-phase1/models/vermin/evil-giant-rat/rat.blend"
+Warning: region type 4 missing in space type "Info" (id: 7) - removing region
+
+Blender quit

@@ -1,0 +1,39 @@
+EXPORT-START src=beasts/troll-flare/Troll.blend dst=beasts/troll-flare/Troll.glb
+OPENED beasts/troll-flare/Troll.blend
+INFO Draco mesh compression is available, use library at /home/hatch/workspace/tools/blender-4.5.3-linux-x64/4.5/scripts/addons_core/io_scene_gltf2/libextern_draco.so
+17:54:52 | INFO: Starting glTF 2.0 export
+17:54:52 | WARNING: Armature must be the parent of skinned meshArmature is selected by its name, but may be false in case of instances
+17:54:52 | INFO: Extracting primitive: Plane
+17:54:52 | INFO: Primitives created: 0
+17:54:52 | WARNING: Mesh 'Plane' has no primitives and will be omitted.
+17:54:52 | INFO: Extracting primitive: meHumanMale
+17:54:52 | INFO: Primitives created: 6
+17:54:52 | INFO: Extracting primitive: Plane.001
+17:54:52 | INFO: Primitives created: 1
+17:54:52 | WARNING: Animation target pose.bones["Cloak"] not found
+17:54:52 | WARNING: Animation target pose.bones["Cloak"] not found
+17:54:52 | WARNING: Animation target pose.bones["Cloak"] not found
+17:54:52 | WARNING: Animation target pose.bones["Cloak"] not found
+17:54:52 | WARNING: Animation target pose.bones["Cloak"] not found
+17:54:52 | WARNING: Animation target pose.bones["Cloak"] not found
+17:54:52 | WARNING: Animation target pose.bones["Cloak"] not found
+17:54:52 | WARNING: Animation target pose.bones["Cloak"] not found
+17:54:52 | WARNING: Animation target pose.bones["Cloak"] not found
+17:54:52 | WARNING: Animation target pose.bones["Cloak"] not found
+17:54:52 | WARNING: Animation target pose.bones["Cloak"] not found
+17:54:52 | WARNING: Animation target pose.bones["Cloak"] not found
+17:54:52 | WARNING: Animation target pose.bones["Cloak"] not found
+17:54:52 | WARNING: Animation target pose.bones["Cloak"] not found
+17:54:52 | WARNING: Animation target pose.bones["Cloak"] not found
+17:54:52 | WARNING: Animation target pose.bones["Cloak"] not found
+17:54:52 | WARNING: Animation target pose.bones["Cloak"] not found
+17:54:52 | WARNING: Animation target pose.bones["Cloak"] not found
+17:54:52 | WARNING: Animation target pose.bones["Cloak"] not found
+17:54:52 | WARNING: Animation target pose.bones["Cloak"] not found
+17:54:52 | INFO: Finished glTF 2.0 export in 0.7494950294494629 s
+
+EXPORT-DONE dst=beasts/troll-flare/Troll.glb size=256588
+Blender 4.5.3 LTS (hash 67807e1800cc built 2025-09-09 01:38:15)
+Read blend: "/home/hatch/workspace/game/idle-dungeon-roguelike/assets/resources-phase1/models/beasts/troll-flare/Troll.blend"
+
+Blender quit

@@ -1,0 +1,70 @@
+EXPORT-START src=golems/fire-ice-stone-golem/golem.blend dst=golems/fire-ice-stone-golem/golem.glb
+OPENED golems/fire-ice-stone-golem/golem.blend
+INFO Draco mesh compression is available, use library at /home/hatch/workspace/tools/blender-4.5.3-linux-x64/4.5/scripts/addons_core/io_scene_gltf2/libextern_draco.so
+17:55:03 | INFO: Starting glTF 2.0 export
+17:55:03 | INFO: Extracting primitive: Cube.000
+17:55:03 | INFO: Primitives created: 3
+17:55:03 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:03 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:03 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:03 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:03 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:03 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:03 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:03 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:03 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:03 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:03 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:03 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:03 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:03 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:03 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:03 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:03 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:03 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:03 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:03 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:03 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:03 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:03 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:03 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:03 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:03 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:03 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:03 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:04 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:04 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:04 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:04 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:04 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:04 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:04 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:04 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:04 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:04 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:04 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:04 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:04 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:04 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:04 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:04 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:04 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:04 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:04 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:04 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:04 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:04 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:04 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:04 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:04 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:04 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:04 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:04 | WARNING: Baking animation because of unsupported constraints acting on the bone
+17:55:05 | INFO: Finished glTF 2.0 export in 1.840461254119873 s
+
+EXPORT-DONE dst=golems/fire-ice-stone-golem/golem.glb size=459620
+Blender 4.5.3 LTS (hash 67807e1800cc built 2025-09-09 01:38:15)
+Read blend: "/home/hatch/workspace/game/idle-dungeon-roguelike/assets/resources-phase1/models/golems/fire-ice-stone-golem/golem.blend"
+Warning: region type 4 missing in space type "Info" (id: 7) - removing region
+
+Blender quit

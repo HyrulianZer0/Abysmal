@@ -1,0 +1,25 @@
+CERB-FIX-START src=demons/animated-cerberus/cerberus_v002.blend dst=demons/animated-cerberus/cerberus_v002_full.glb
+mesh UV layers: ['UVTex']
+mesh material slots: ['Material.001']
+armature visible_get: False
+actions in file: ['Attack', 'Idle', 'Walk', 'die', 'hit']
+  NLA track 'Attack' strip 'Attack' action 'Attack' frames 1.0-41.0
+  NLA track 'Idle' strip 'Idle' action 'Idle' frames 1.0-21.0
+  NLA track 'Walk' strip 'Walk' action 'Walk' frames 1.0-31.0
+  NLA track 'die' strip 'die' action 'die' frames 1.0-35.0
+  NLA track 'hit' strip 'hit' action 'hit' frames 1.0-21.0
+  texture node image: cerberus_texture.png filepath: //cerberus_texture.png
+INFO Draco mesh compression is available, use library at /home/hatch/workspace/tools/blender-4.5.3-linux-x64/4.5/scripts/addons_core/io_scene_gltf2/libextern_draco.so
+18:05:38 | INFO: Starting glTF 2.0 export
+18:05:38 | WARNING: Armature must be the parent of skinned meshArmature is selected by its name, but may be false in case of instances
+18:05:38 | INFO: Extracting primitive: Cube.004
+18:05:38 | INFO: Primitives created: 1
+18:05:39 | INFO: Finished glTF 2.0 export in 0.7801451683044434 s
+
+EXPORT-DONE dst=demons/animated-cerberus/cerberus_v002_full.glb size=333540
+NOTE: .blend was NOT saved; fixes live only in this export + this script.
+Blender 4.5.3 LTS (hash 67807e1800cc built 2025-09-09 01:38:15)
+Read blend: "/home/hatch/workspace/game/idle-dungeon-roguelike/assets/resources-phase1/models/demons/animated-cerberus/cerberus_v002.blend"
+Warning: region type 4 missing in space type "Info" (id: 7) - removing region
+
+Blender quit

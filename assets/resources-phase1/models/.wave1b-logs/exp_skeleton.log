@@ -1,0 +1,35 @@
+EXPORT-START src=undead/skeleton-with-rig/fgc_skeleton.blend dst=undead/skeleton-with-rig/fgc_skeleton.glb
+OPENED undead/skeleton-with-rig/fgc_skeleton.blend
+INFO Draco mesh compression is available, use library at /home/hatch/workspace/tools/blender-4.5.3-linux-x64/4.5/scripts/addons_core/io_scene_gltf2/libextern_draco.so
+17:54:56 | INFO: Starting glTF 2.0 export
+17:54:56 | WARNING: Armature must be the parent of skinned meshArmature is selected by its name, but may be false in case of instances
+17:54:56 | WARNING: Armature must be the parent of skinned meshArmature is selected by its name, but may be false in case of instances
+17:54:56 | WARNING: Armature must be the parent of skinned meshArmature is selected by its name, but may be false in case of instances
+17:54:56 | WARNING: Armature must be the parent of skinned meshArmature is selected by its name, but may be false in case of instances
+17:54:56 | WARNING: Armature must be the parent of skinned meshArmature is selected by its name, but may be false in case of instances
+17:54:56 | WARNING: Armature must be the parent of skinned meshArmature is selected by its name, but may be false in case of instances
+17:54:56 | WARNING: Armature must be the parent of skinned meshArmature is selected by its name, but may be false in case of instances
+17:54:56 | WARNING: Armature must be the parent of skinned meshArmature is selected by its name, but may be false in case of instances
+17:54:56 | INFO: Extracting primitive: SkeletonMesh.005
+17:54:56 | INFO: Primitives created: 1
+17:54:56 | INFO: Extracting primitive: SkeletonMesh.004
+17:54:56 | INFO: Primitives created: 1
+17:54:56 | INFO: Extracting primitive: SkeletonMesh.001
+17:54:56 | INFO: Primitives created: 1
+17:54:56 | INFO: Extracting primitive: SkeletonMesh.002
+17:54:56 | INFO: Primitives created: 1
+17:54:56 | INFO: Extracting primitive: SkeletonMesh.008
+17:54:56 | INFO: Primitives created: 1
+17:54:56 | INFO: Extracting primitive: SkeletonMesh
+17:54:56 | INFO: Primitives created: 1
+17:54:56 | INFO: Extracting primitive: SkeletonMesh.006
+17:54:56 | INFO: Primitives created: 1
+17:54:56 | INFO: Extracting primitive: SkeletonMesh.007
+17:54:56 | INFO: Primitives created: 1
+17:54:56 | INFO: Finished glTF 2.0 export in 0.1556084156036377 s
+
+EXPORT-DONE dst=undead/skeleton-with-rig/fgc_skeleton.glb size=1352132
+Blender 4.5.3 LTS (hash 67807e1800cc built 2025-09-09 01:38:15)
+Read blend: "/home/hatch/workspace/game/idle-dungeon-roguelike/assets/resources-phase1/models/undead/skeleton-with-rig/fgc_skeleton.blend"
+
+Blender quit
