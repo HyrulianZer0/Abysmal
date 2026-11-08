@@ -1,0 +1,4 @@
+[gd_scene load_steps=2 format=3 uid="uid://lockdoordev001"]
+[ext_resource type="Script" path="res://tests/lock_door_node.gd" id="1"]
+[node name="LockDoor" type="Node"]
+script = ExtResource("1")
