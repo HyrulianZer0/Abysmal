@@ -1,0 +1,73 @@
+name: Bug report
+description: Something broke, stalled, or looked wrong — tell us how to see it too.
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting this. Steps to reproduce are the most useful
+        part — if we can see it happen, we can fix it.
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: Which build? (e.g. v0.12.0, Windows demo)
+      placeholder: v0.12.0
+    validations:
+      required: true
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Platform
+      options:
+        - Android
+        - Windows
+        - macOS
+        - Linux
+        - Web
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: Device / OS
+      description: Phone model, PC specs, or browser — whatever you played on.
+      placeholder: Pixel 7, Android 14
+    validations:
+      required: false
+  - type: textarea
+    id: happened
+    attributes:
+      label: What happened?
+      description: What did you see (or not see)? What were you doing when it happened?
+      placeholder: The game froze on the depth-4 loading screen and never came back…
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Numbered steps, if you can — the shortest path to seeing it again.
+      placeholder: |
+        1. Start a new run
+        2. Delve to depth 4
+        3. Open a chest mid-fight
+    validations:
+      required: false
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect to happen?
+      description: What should have happened instead?
+      placeholder: …
+    validations:
+      required: false
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs or screenshots
+      description: Paste any error text, or attach a screenshot. Anything helps.
+      placeholder: …
+    validations:
+      required: false
