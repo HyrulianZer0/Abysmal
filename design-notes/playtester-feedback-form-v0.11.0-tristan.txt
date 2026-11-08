@@ -1,0 +1,73 @@
+================================================================
+ABYSMAL — Playtester Feedback Form, v0.11.0 (Tristan edition)
+Producer/Director: Aethelwarden Solas
+================================================================
+
+Thank you for playing! This form is for the Windows demo of v0.11.0
+(the same build Jeff and Fen tested). Answer what you can, skip what
+you can't. Plain text on purpose — it works with screen magnifiers
+and text scaling. Send your answers back to James however is easiest
+for you; he passes them to the dev table.
+
+----------------------------------------------------------------
+ACCESSIBILITY — Windows Magnifier (the most important part)
+----------------------------------------------------------------
+This build was made BEFORE the accessibility pass, so please report
+everything that breaks. The goal is full Windows Magnifier
+compatibility, plus large text and UI scale later.
+
+1. Does the game window work with Windows Magnifier at all?
+   (Windowed? Fullscreen? Does Magnifier follow the game, or does
+   the game fight it?)
+
+2. Can you read the HUD with Magnifier — health, gold, depth, the
+   log panel, button labels?
+
+3. Can you read the menus — Settings, town management (clipboard),
+   the Life Tree / laurel leaves and their stats?
+
+4. Is any text too small, too low-contrast, or cut off at the
+   screen edge, even with Magnifier?
+
+5. Does anything flicker, jump, or move too fast to follow with
+   Magnifier on?
+
+6. What would help most: bigger base text, a UI scale slider,
+   higher contrast, slower camera movement, something else?
+
+----------------------------------------------------------------
+GAMEPLAY FEEL
+----------------------------------------------------------------
+7. Delve pace (leisurely / normal / swift): does the dungeon read
+   clearly at your pace? Too fast, too slow?
+
+8. Combat readability: can you tell what is happening — who hit
+   whom, how hard, when you are in danger?
+
+9. The hand and weapon: visible enough? Can you tell slash from
+   jab, and when a chest is in reach?
+
+10. Chests and mimics: can you tell a normal chest from a mimic
+    before opening? (Mimics breathe faintly; the rich, ornate ones
+    are the rare mini-boss kind.)
+
+11. Death and rebirth: is it clear what happened and what you kept?
+
+----------------------------------------------------------------
+PERFORMANCE
+----------------------------------------------------------------
+12. Frame rate and stutters: smooth, or does it hitch anywhere
+    (big rooms, lots of monsters, new floors)?
+
+13. Any missing textures, black voids, or things that look wrong?
+
+14. Your PC (roughly — Windows version, laptop or desktop, any
+    graphics card if you know it):
+
+----------------------------------------------------------------
+OPEN COMMENTS
+----------------------------------------------------------------
+Anything else — what you liked, what frustrated you, what you
+wish the game did. There are no wrong answers here.
+
+Thank you — your eyes shape what comes next.

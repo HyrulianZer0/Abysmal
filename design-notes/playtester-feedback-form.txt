@@ -1,0 +1,70 @@
+================================================================
+ABYSMAL — Playtester Feedback Form
+Producer/Director: Aethelwarden Solas
+================================================================
+
+Thank you for playtesting Abysmal! You are helping shape this game,
+and every note below matters. There are no wrong answers here.
+
+ALL FEEDBACK IS WELCOME — and non-judgmental. Tell us what delighted
+you, what annoyed you, what confused you, what broke. Harsh notes are
+fine; vague notes are fine; a single sentence is fine. James and Milo
+consider every piece of feedback together, and it directly shapes what
+we focus on for the next build. Nothing you write here will be held
+against you, and you are never obligated to test, to finish, or to
+reply on any schedule. Your life comes first.
+
+YOUR NAME (or handle):
+BUILD TESTED (e.g. v0.11.0 Android / Windows demo v5):
+DEVICE (phone/PC model, OS version if you know it):
+
+----------------------------------------------------------------
+1. WHAT FELT GOOD?
+   What did you enjoy? What felt smooth, satisfying, funny, or right?
+   (Combat feel, pace, hands/weapons, loot moments, music, anything.)
+
+----------------------------------------------------------------
+2. WHAT FELT BAD?
+   What frustrated, bored, or confused you? What felt slow, clunky,
+   unfair, or unclear?
+
+----------------------------------------------------------------
+3. DID ANYTHING BREAK?
+   Crashes, freezes, visual glitches, doors/ceilings looking wrong,
+   buttons not responding, saves misbehaving — anything at all.
+   If you can, tell us what you were doing when it happened, and
+   attach a screenshot. Screenshots of weird moments are gold.
+
+----------------------------------------------------------------
+4. ARE WE DOING SOMETHING WRONG?
+   Is there a design choice, a system, or a direction that feels like
+   a mistake to you? Be blunt — this is the question that saves us
+   the most time.
+
+----------------------------------------------------------------
+5. ARE WE DOING SOMETHING RIGHT?
+   What should we absolutely keep, protect, or do more of?
+
+----------------------------------------------------------------
+6. WHAT SHOULD WE FOCUS ON FOR THE NEXT BUILD?
+   If you could point us at one thing — one fix, one feature, one
+   feeling — what would it be?
+
+----------------------------------------------------------------
+7. ANYTHING ELSE?
+   Ideas, wishes, comparisons to other games, things you expected
+   that weren't there, anything at all.
+
+----------------------------------------------------------------
+8. ACCESSIBILITY (if it applies to you)
+   Do you use Windows Magnifier, screen magnification, large text,
+   high contrast, or any other assistive tool? Does the game window
+   work with it, or fight it? Can you read the HUD, menus, and
+   buttons? What would help most — bigger base text, a UI scale
+   slider, higher contrast, slower camera movement?
+
+----------------------------------------------------------------
+Thank you. Seriously — thank you for your time, your eyes, and your
+honesty. Send this back to James whenever you're ready, in whatever
+shape is easiest (filled in here, pasted into chat, voice note — all
+good). No rush, no pressure.

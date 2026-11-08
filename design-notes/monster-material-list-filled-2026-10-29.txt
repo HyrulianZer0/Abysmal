@@ -1,0 +1,211 @@
+﻿ABYSMAL — Monster Material List
+Producer/Director: Aethelwarden Solas
+
+
+Every base creature from the roster, grouped by family. James fills in the Materials column. Format per line: Monster name | Family | Materials: 
+
+
+RULES (locked):
+
+
+* Variants (~1,000 with attunements / corruption / stature) inherit their base creature's materials unless noted otherwise.
+* Light leather comes from small beasts; heavy leather from large beasts (bears and their weight class).
+* Teeth / fangs are Undercrucible reagents: grind them up for damage + a status effect, or mount them on weapons directly. (Locked example: snake fangs, ground = damage + poison.)
+* Only THREE rows are pre-filled as locked examples: wolf -> fur, boar -> leather, spider -> silk. Everything else is blank for James to fill in.
+* Cross-listed creatures appear once, under their primary family, with their other family noted.
+
+
+________________
+
+
+Family: Oozes & Slimes (8)
+Slime | Oozes & Slimes | Materials: viscous mucus Cave Jelly | Oozes & Slimes | Materials: luminescent gelatin Amber Ooze | Oozes & Slimes | Materials: hardened resinous glob Mire Pudding | Oozes & Slimes | Materials: stagnant sediment Acid Blob | Oozes & Slimes | Materials: corrosive enzyme Gloom Ooze | Oozes & Slimes | Materials: umbral sludge Mercury Slime | Oozes & Slimes | Materials: heavy metallic fluid Primordial Ooze | Oozes & Slimes | Materials: raw protoplasm
+
+
+________________
+
+
+Family: Vermin & Cave Crawlers (17)
+Cave Rat | Vermin & Cave Crawlers | Materials: rat tail Rat Swarm | Vermin & Cave Crawlers | Materials: matted fur scraps Cave Bat | Vermin & Cave Crawlers | Materials: leathery wing membrane Cave Spider | Vermin & Cave Crawlers | Materials: silk Cave Wasp | Vermin & Cave Crawlers | Materials: venom stinger Cave Scorpion | Vermin & Cave Crawlers | Materials: chitinous pincer Centipede | Vermin & Cave Crawlers | Materials: segmented shell Cave Frog | Vermin & Cave Crawlers | Materials: moist hide Giant Rat | Vermin & Cave Crawlers | Materials: oversized rodent pelt Vampire Bat | Vermin & Cave Crawlers | Materials: crimson-webbed wing Widow Spider | Vermin & Cave Crawlers | Materials: toxic spinneret Emperor Scorpion | Vermin & Cave Crawlers | Materials: sovereign carapace Stag Beetle | Vermin & Cave Crawlers | Materials: iridescent mandible Burrow Worm | Vermin & Cave Crawlers | Materials: tunneling mucus gland Carrion Worm | Vermin & Cave Crawlers | Materials: putrid ichor sack Hornet Matriarch | Vermin & Cave Crawlers | Materials: royal thorax shell Ōmukade (also Japanese Yōkai) | Vermin & Cave Crawlers | Materials: giant segmented plates
+
+
+________________
+
+
+Family: Beasts (23)
+Wolf | Beasts | Materials: fur Wild Boar | Beasts | Materials: leather Hyena | Beasts | Materials: coarse hide Giant Serpent | Beasts | Materials: scaled serpentine skin Grizzly | Beasts | Materials: heavy leather Dire Wolf | Beasts | Materials: thick winter fur Warhound | Beasts | Materials: scarred tough hide Cave Bear | Beasts | Materials: heavy leather Razorback | Beasts | Materials: bristled thick hide Panther | Beasts | Materials: sleek dark pelt Cave Python | Beasts | Materials: subterranean scales Cave Ape | Beasts | Materials: shaggy thick pelt Baboon Troop | Beasts | Materials: patchy primate hide Crag Ram | Beasts | Materials: curled heavy horn Deep Stag | Beasts | Materials: branched bone antler Grotto Bull | Beasts | Materials: heavy leather Blind Mole | Beasts | Materials: velvety pelt Crocodile | Beasts | Materials: armored scutes Lion | Beasts | Materials: golden mane hide Sabertooth | Beasts | Materials: elongated saber fangs Tiger | Beasts | Materials: striped heavy pelt Cave Hyena | Beasts | Materials: spotted rough hide Pale Horse | Beasts | Materials: light leather
+
+
+________________
+
+
+Family: Goblin-Kin & Cave Folk (12)
+Kobold | Goblin-Kin & Cave Folk | Materials: scaly scrap hide Goblin | Goblin-Kin & Cave Folk | Materials: rough ear cartilage Goblin Sneak | Goblin-Kin & Cave Folk | Materials: soft suede rags Goblin Shaman | Goblin-Kin & Cave Folk | Materials: bone fetish beads Hobgoblin | Goblin-Kin & Cave Folk | Materials: toughened hide scraps Bugbear | Goblin-Kin & Cave Folk | Materials: coarse bristle fur Boggart | Goblin-Kin & Cave Folk | Materials: withered knuckle bone Redcap (also Celtic & British Isles) | Goblin-Kin & Cave Folk | Materials: iron-stained felt Spriggan (also Celtic & British Isles) | Goblin-Kin & Cave Folk | Materials: gnarled wood-bark skin Gremlin | Goblin-Kin & Cave Folk | Materials: greasy ear leather Púca (also Celtic & British Isles) | Goblin-Kin & Cave Folk | Materials: shapeshifted bristle Goblin Champion | Goblin-Kin & Cave Folk | Materials: veteran scarred hide
+
+
+________________
+
+
+Family: Orcs, Trolls & Giant-Kin (15)
+Orc | Orcs, Trolls & Giant-Kin | Materials: green-tinged thick hide Orc Berserker | Orcs, Trolls & Giant-Kin | Materials: battle-scarred thick hide Half-Ogre | Orcs, Trolls & Giant-Kin | Materials: coarse heavy hide Ogre | Orcs, Trolls & Giant-Kin | Materials: heavy leather Marsh Troll | Orcs, Trolls & Giant-Kin | Materials: spongy regenerative fat Troll | Orcs, Trolls & Giant-Kin | Materials: rubbery hide Orc Shaman | Orcs, Trolls & Giant-Kin | Materials: tribal ritual bone Cave Troll | Orcs, Trolls & Giant-Kin | Materials: stony rough hide Ettin | Orcs, Trolls & Giant-Kin | Materials: dual-headed skull fragment Cyclops | Orcs, Trolls & Giant-Kin | Materials: monocle optic nerve Hill Giant | Orcs, Trolls & Giant-Kin | Materials: giant hide Stone Giant | Orcs, Trolls & Giant-Kin | Materials: granitic outer crust Frost Giant (also Norse & Germanic) | Orcs, Trolls & Giant-Kin | Materials: rime-encrusted giant hide Ogre Mage | Orcs, Trolls & Giant-Kin | Materials: mystic-marked heavy hide Fire Giant (also Norse & Germanic) | Orcs, Trolls & Giant-Kin | Materials: cinderscorched plate skin
+
+
+________________
+
+
+Family: The Undead (23)
+Skeleton | The Undead | Materials: brittle bone shard Skeleton Archer | The Undead | Materials: notched arm bone Zombie | The Undead | Materials: rotted flesh scrap Skeleton Knight | The Undead | Materials: polished iron-bone Ghoul (also Demons, Devils & the Damned) | The Undead | Materials: clawed necrotic digit Barrow Wight | The Undead | Materials: ancient grave dust Specter | The Undead | Materials: ethereal ectoplasm Poltergeist | The Undead | Materials: volatile spirit shiver Draugr (also Norse & Germanic) | The Undead | Materials: bloated corpse flesh Mummy (also Egyptian & Near East) | The Undead | Materials: linen burial wrap Phantom | The Undead | Materials: translucent shroud fragment Banshee (also Celtic & British Isles) | The Undead | Materials: wailing vocal resonance Vampire | The Undead | Materials: preserved noble blood Strigoi | The Undead | Materials: ash-grey cursed heart Jiangshi (also Chinese & East Asian) | The Undead | Materials: sealing talisman scrap Vetala (also South Asian) | The Undead | Materials: cemetery soil residue Revenant | The Undead | Materials: vengeance-bound sinew Sluagh (also Celtic & British Isles) | The Undead | Materials: restless shadow feather Wight Lord | The Undead | Materials: rusted crown fragment Lich | The Undead | Materials: phylactery glass dust Dullahan (also Celtic & British Isles) | The Undead | Materials: headless spine segment Gashadokuro (also Japanese Yōkai) | The Undead | Materials: giant vengeful femur Penanggalan | The Undead | Materials: trailing viscera cord
+
+
+________________
+
+
+Family: Greek & Mediterranean Myth (17)
+Satyr | Greek & Mediterranean Myth | Materials: cloven goat hoof Harpy (also Sky & Storm) | Greek & Mediterranean Myth | Materials: avian talon Centaur | Greek & Mediterranean Myth | Materials: equine light leather Siren | Greek & Mediterranean Myth | Materials: luring feather plumage Hellhound (also Demons, Devils & the Damned) | Greek & Mediterranean Myth | Materials: sulfurous canine fang Minotaur | Greek & Mediterranean Myth | Materials: heavy minotaur hide Stymphalian Bird (also Sky & Storm) | Greek & Mediterranean Myth | Materials: bronze-tipped quill Bronze Bull | Greek & Mediterranean Myth | Materials: heat-conductive metal plating Gorgon | Greek & Mediterranean Myth | Materials: petrified scale Chimera | Greek & Mediterranean Myth | Materials: lion-goat-serpent composite hide Sphinx | Greek & Mediterranean Myth | Materials: riddling golden tuft Griffin (also Sky & Storm) | Greek & Mediterranean Myth | Materials: aquiline golden feather Manticore | Greek & Mediterranean Myth | Materials: barbed tail spike Lamia | Greek & Mediterranean Myth | Materials: serpentine scaled underbelly Empusa | Greek & Mediterranean Myth | Materials: bronze prosthetic limb scrap Nemean Lion | Greek & Mediterranean Myth | Materials: invulnerable golden pelt Hydra (also Dragons & Great Serpents) | Greek & Mediterranean Myth | Materials: multi-headed regenerative blood
+
+
+________________
+
+
+Family: Norse & Germanic (10)
+Sea Serpent | Norse & Germanic | Materials: abyssal scale Nixie | Norse & Germanic | Materials: freshwater reed skirt Hulder | Norse & Germanic | Materials: hollow tree-tail scrap Mare | Norse & Germanic | Materials: nightmare mane hair Dark Elf (Dökkálfar) | Norse & Germanic | Materials: obsidian mesh fabric Alfar Raider | Norse & Germanic | Materials: twilight leather Fallen Valkyrie (also Celestials & the Fallen) | Norse & Germanic | Materials: tarnished silver feather Great Wolf | Norse & Germanic | Materials: colossal wolf pelt Lindworm (also Dragons & Great Serpents) | Norse & Germanic | Materials: wingless dragon scale Kraken (also Aquatic & the Drowned Deep) | Norse & Germanic | Materials: colossal tentacle suction ring
+
+
+________________
+
+
+Family: Egyptian & Near East (9)
+Scarab Swarm | Egyptian & Near East | Materials: iridescent beetle shell Asp | Egyptian & Near East | Materials: desert cobra hood Jackal Guardian | Egyptian & Near East | Materials: embalmed jackal hide Guardian Scorpion | Egyptian & Near East | Materials: temple-carved chitin Serpopard | Egyptian & Near East | Materials: mythical spotted pelt Sha Beast | Egyptian & Near East | Materials: anomalous beast ear Falcon Sphinx | Egyptian & Near East | Materials: raptor-headed crest Devourer Beast | Egyptian & Near East | Materials: abyssal-stomach lining Ushabti (also Golems & Constructs) | Egyptian & Near East | Materials: faience ceramic shard
+
+
+________________
+
+
+Family: Japanese Yōkai (13)
+Karakasa | Japanese Yōkai | Materials: oiled paper parasol rib Chōchin-obake | Japanese Yōkai | Materials: lantern bamboo frame Kappa | Japanese Yōkai | Materials: head-plate water basin fragment Oni | Japanese Yōkai | Materials: ogre brow horn Bake-danuki | Japanese Yōkai | Materials: oversized tanuki leaf Kasha | Japanese Yōkai | Materials: corpse-fire cinder Kitsune | Japanese Yōkai | Materials: celestial spirit tail-fur Tengu | Japanese Yōkai | Materials: crow-tengu large wing feather Yuki-onna | Japanese Yōkai | Materials: unmelting frost crystal Jorōgumo | Japanese Yōkai | Materials: patterned spider abdomen shell Nure-onna | Japanese Yōkai | Materials: damp serpentine hair-strand Nue | Japanese Yōkai | Materials: chimeric chimera-tail snake skin Tsuchigumo | Japanese Yōkai | Materials: earth-crusted spider leg
+
+
+________________
+
+
+Family: Celtic & British Isles (8)
+Kelpie (also Aquatic & the Drowned Deep) | Celtic & British Isles | Materials: river-weed mane Merrow (also Aquatic & the Drowned Deep) | Celtic & British Isles | Materials: webbed fin-membrane Selkie | Celtic & British Isles | Materials: smooth seal pelt Cat Sìth | Celtic & British Isles | Materials: spectral feline fur Bauchan | Celtic & British Isles | Materials: mischievous goblin ear Fachan | Celtic & British Isles | Materials: single-eye lens fragment Afanc | Celtic & British Isles | Materials: lake-bed mineralized hide Bean-nighe | Celtic & British Isles | Materials: blood-washed laundering rag
+
+
+________________
+
+
+Family: Slavic (11)
+Domovoi | Slavic | Materials: hearth-ash tuft Kikimora | Slavic | Materials: wall-cracks moss Rusalka (also Aquatic & the Drowned Deep) | Slavic | Materials: drowning hair-weed Vodyanoy | Slavic | Materials: green water-frog skin Striga | Slavic | Materials: vampiric night-feather Leshy (also Plants & Fungi) | Slavic | Materials: living birch bark Alkonost | Slavic | Materials: sorrow-singing bird feather Gamayun | Slavic | Materials: prophetic feather quill Mora | Slavic | Materials: suffocating night-mist Zmey (also Dragons & Great Serpents) | Slavic | Materials: multi-headed dragon scale Firebird (also Sky & Storm) | Slavic | Materials: luminescent ember feather
+
+
+________________
+
+
+Family: Mesopotamian (8)
+Cedar Guardian | Mesopotamian | Materials: sacred cedar resin Galla | Mesopotamian | Materials: underworld bailiff shackle Scorpion Man | Mesopotamian | Materials: hybrid chitin-skin Ugallu | Mesopotamian | Materials: storm-lion pelt Lamassu | Mesopotamian | Materials: winged bull feather-hide Mušḫuššu | Mesopotamian | Materials: dragon-serpent scute Anzu (also Sky & Storm) | Mesopotamian | Materials: storm-bird beak fragment Asag | Mesopotamian | Materials: disease-tainted stone slag
+
+
+________________
+
+
+Family: South Asian (8)
+Naga (also Aquatic & the Drowned Deep) | South Asian | Materials: multi-headed cobra scale Yaksha | South Asian | Materials: guardian tree root-fiber Bhūta | South Asian | Materials: phantom ash Piśāca | South Asian | Materials: flesh-eating ghoul tooth Rakshasa | South Asian | Materials: illusion-woven beast pelt Makara (also Aquatic & the Drowned Deep) | South Asian | Materials: crocodile-fish composite scale Asura | South Asian | Materials: celestial-wrath iron hide Garuda (also Sky & Storm) | South Asian | Materials: sun-fire golden feather
+
+
+________________
+
+
+Family: Chinese & East Asian (9)
+Terracotta Soldier (also Golems & Constructs) | Chinese & East Asian | Materials: baked clay armor shard Mountain Yaoguai | Chinese & East Asian | Materials: rugged boulder hide Xiezhi | Chinese & East Asian | Materials: justice-seeking single horn Hulijing | Chinese & East Asian | Materials: nine-tailed spirit fur Mogwai | Chinese & East Asian | Materials: mischievous damp pelt River Long (also Dragons & Great Serpents) | Chinese & East Asian | Materials: celestial river scale Taotie | Chinese & East Asian | Materials: gluttonous stomach leather Hundun | Chinese & East Asian | Materials: faceless chaos blur-pelt Qilin, Corrupted | Chinese & East Asian | Materials: tainted auspicious horn
+
+
+________________
+
+
+Family: Mesoamerican & Andean (6)
+Ahuizotl | Mesoamerican & Andean | Materials: hand-tipped tail appendage Death Bat | Mesoamerican & Andean | Materials: sacrificial wing membrane Nagual | Mesoamerican & Andean | Materials: shapeshifter skin fragment Storm Wraith | Mesoamerican & Andean | Materials: condensed tempest vapor Tzitzimitl | Mesoamerican & Andean | Materials: stellar skeletal star-bone Cipactli Brood | Mesoamerican & Andean | Materials: primordial aquatic scute
+
+
+________________
+
+
+Family: African Traditions (6)
+Tokoloshe | African Traditions | Materials: river-spirit hair tuft Adze | African Traditions | Materials: firefly-form chitin Impundulu (also Sky & Storm) | African Traditions | Materials: lightning-striking feather Sasabonsam | African Traditions | Materials: forest-giant leathery hide Mami Wata | African Traditions | Materials: mermaid serpentine scale Inkanyamba | African Traditions | Materials: torrential storm serpent scale
+
+
+________________
+
+
+Family: Fey & Nature Spirits (11)
+Pixie | Fey & Nature Spirits | Materials: iridescent dust Sprite | Fey & Nature Spirits | Materials: translucent wing Bramble Imp | Fey & Nature Spirits | Materials: thorny vine fragment Brownie | Fey & Nature Spirits | Materials: homespun wool scrap Dryad (also Plants & Fungi) | Fey & Nature Spirits | Materials: living heartwood Naiad | Fey & Nature Spirits | Materials: crystal stream droplet Sylph (also Elementals & Primal Spirits) | Fey & Nature Spirits | Materials: condensed breeze wisp Faun | Fey & Nature Spirits | Materials: caprine leg-fur Will-o'-wisp | Fey & Nature Spirits | Materials: trapped ghost-light core Changeling | Fey & Nature Spirits | Materials: glamour-faded cloth Elder Dryad (also Plants & Fungi) | Fey & Nature Spirits | Materials: ancient ironwood bark
+
+
+________________
+
+
+Family: Demons, Devils & the Damned (11)
+Imp | Demons, Devils & the Damned | Materials: smoldering horn scrap Possessed Cultist | Demons, Devils & the Damned | Materials: tainted blood-cloth Succubus | Demons, Devils & the Damned | Materials: alluring leather wing Incubus | Demons, Devils & the Damned | Materials: shadow-touched leather wing Pit Brute | Demons, Devils & the Damned | Materials: brimstone-crusted hide Djinn | Demons, Devils & the Damned | Materials: bottled whirlwind core Larva of the Damned | Demons, Devils & the Damned | Materials: writhing soul slime Ifrit | Demons, Devils & the Damned | Materials: living charcoal core Marid | Demons, Devils & the Damned | Materials: pressurized water globule Contract Devil | Demons, Devils & the Damned | Materials: blood-signed parchment scrap Shaitan | Demons, Devils & the Damned | Materials: heavy earth-gem shard
+
+
+________________
+
+
+Family: Celestials & the Fallen (6)
+Deva | Celestials & the Fallen | Materials: radiant divine feather Seraph | Celestials & the Fallen | Materials: six-winged halo fragment Ophanim | Celestials & the Fallen | Materials: eye-set wheel bronze ring Watcher (Grigori) | Celestials & the Fallen | Materials: ancient celestial stone plate Fallen Angel | Celestials & the Fallen | Materials: scorched holy feather Ashen Seraph | Celestials & the Fallen | Materials: cinderscorched wing plume
+
+
+________________
+
+
+Family: Elementals & Primal Spirits (10)
+Gnome | Elementals & Primal Spirits | Materials: compressed earth nodule Salamander | Elementals & Primal Spirits | Materials: flame-slicked scale Fire Elemental | Elementals & Primal Spirits | Materials: unstable ember core Water Elemental | Elementals & Primal Spirits | Materials: fluid core droplet Earth Elemental | Elementals & Primal Spirits | Materials: dense granite chunk Air Elemental | Elementals & Primal Spirits | Materials: captured gale fragment Undine | Elementals & Primal Spirits | Materials: pure liquid droplet Storm Elemental | Elementals & Primal Spirits | Materials: static-charged thunder stone Magma Elemental | Elementals & Primal Spirits | Materials: cooling obsidian crust Frost Elemental | Elementals & Primal Spirits | Materials: eternal ice sliver
+
+
+________________
+
+
+Family: Golems & Constructs (9)
+Clay Golem | Golems & Constructs | Materials: hardened damp clay Gargoyle | Golems & Constructs | Materials: weathered stone wing fragment Living Statue | Golems & Constructs | Materials: chiseled marble chunk Haunted Armor | Golems & Constructs | Materials: rusted steel pauldrons Stone Golem | Golems & Constructs | Materials: monolithic core stone Bone Golem | Golems & Constructs | Materials: stitched skeletal armature Brass Automaton | Golems & Constructs | Materials: clockwork brass gear Iron Golem | Golems & Constructs | Materials: slagged iron plating Crystal Golem | Golems & Constructs | Materials: prismatic crystal shard
+
+
+________________
+
+
+Family: Plants & Fungi (8)
+Grotto Snapper | Plants & Fungi | Materials: snapping floral jaw Mandrake | Plants & Fungi | Materials: shriek-rooted tuber Vampire Vine | Plants & Fungi | Materials: blood-sucking tendril Fungal Shambler | Plants & Fungi | Materials: spongy mycelium mass Walking Oak | Plants & Fungi | Materials: seasoned branch wood Thornhound | Plants & Fungi | Materials: briar-covered pelt Spore Servant | Plants & Fungi | Materials: toxic spore capsule Corpse Flower | Plants & Fungi | Materials: rotting nectar bloom
+
+
+________________
+
+
+Family: Aquatic & the Drowned Deep (6)
+Cave Moray | Aquatic & the Drowned Deep | Materials: electric eel skin Drowned Sailor | Aquatic & the Drowned Deep | Materials: waterlogged canvas scrap Giant Octopus | Aquatic & the Drowned Deep | Materials: flexible tentacle skin Deep Crab | Aquatic & the Drowned Deep | Materials: abyssal heavy shell Lanternjaw | Aquatic & the Drowned Deep | Materials: bioluminescent lure gland World Wurm | Aquatic & the Drowned Deep | Materials: trench-carved colossal scale
+
+
+________________
+
+
+Family: Dragons & Great Serpents (10)
+Drake | Dragons & Great Serpents | Materials: reptilian scale Wyvern | Dragons & Great Serpents | Materials: barbed tail membrane Cockatrice | Dragons & Great Serpents | Materials: petrifying beak fragment Jaculus | Dragons & Great Serpents | Materials: winged serpent scale Wyrm | Dragons & Great Serpents | Materials: subterranean wyrm scale Basilisk | Dragons & Great Serpents | Materials: stony eye membrane Amphiptere | Dragons & Great Serpents | Materials: feathered wing scale Peluda | Dragons & Great Serpents | Materials: bristled green scale Elder Wyrm | Dragons & Great Serpents | Materials: ancient layered scale plate Tarasque | Dragons & Great Serpents | Materials: impenetrable carapace plate
+
+
+________________
+
+
+Family: Humans & the Damned Living (11)
+Brigand | Humans & the Damned Living | Materials: worn leather boot Grave Robber | Humans & the Damned Living | Materials: soiled burlap sack Cultist | Humans & the Damned Living | Materials: tattered ceremonial robe Witch | Humans & the Damned Living | Materials: brewed herb pouch Berserker | Humans & the Damned Living | Materials: war-painted hide scrap Bandit Chief | Humans & the Damned Living | Materials: ornate belt buckle Mad Alchemist | Humans & the Damned Living | Materials: shattered glass vial Necromancer | Humans & the Damned Living | Materials: skull-engraved talisman Warlock | Humans & the Damned Living | Materials: pact-bound parchment Plague Bearer | Humans & the Damned Living | Materials: disease-ridden rag Fallen Knight | Humans & the Damned Living | Materials: dented steel gauntlet
+
+
+________________
+
+
+Family: Sky & Storm (6)
+Storm Crow | Sky & Storm | Materials: lightning-charged feather Roc | Sky & Storm | Materials: colossal quill Phoenix | Sky & Storm | Materials: eternal ash plume Thunderbird | Sky & Storm | Materials: thunder-resonant tail feather Simurgh | Sky & Storm | Materials: wisdom-infused plumage Ziz | Sky & Storm | Materials: sky-shading wing down
+
+
+________________
+
+
+Family: The Abyssal & Cosmic (9)
+Living Shadow | The Abyssal & Cosmic | Materials: solid dark silhouette Titan | The Abyssal & Cosmic | Materials: primordial bedrock fragment Void Horror | The Abyssal & Cosmic | Materials: null-space membrane Null Seraph | The Abyssal & Cosmic | Materials: entropy-bleached halo feather Entropy Wraith | The Abyssal & Cosmic | Materials: decaying reality dust Star Horror | The Abyssal & Cosmic | Materials: meteorite chitin shard The Hollow Choir | The Abyssal & Cosmic | Materials: resonance-vocal membrane Ashen Titan | The Abyssal & Cosmic | Materials: burnt cosmic slag Ur-Dragon | The Abyssal & Cosmic | Materials: genesis-scale fragment

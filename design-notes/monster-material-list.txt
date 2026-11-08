@@ -1,0 +1,434 @@
+================================================================
+ABYSMAL — Monster Material List
+Producer/Director: Aethelwarden Solas
+================================================================
+
+Every base creature from the roster, grouped by family. James fills
+in the Materials column. Format per line:
+  Monster name | Family | Materials: <blank until filled>
+
+RULES (locked):
+- Variants (~1,000 with attunements / corruption / stature) inherit
+  their base creature's materials unless noted otherwise.
+- Light leather comes from small beasts; heavy leather from large
+  beasts (bears and their weight class).
+- Teeth / fangs are Undercrucible reagents: grind them up for
+  damage + a status effect, or mount them on weapons directly.
+  (Locked example: snake fangs, ground = damage + poison.)
+- Only THREE rows are pre-filled as locked examples: wolf -> fur,
+  boar -> leather, spider -> silk. Everything else is blank for
+  James to fill in.
+- Cross-listed creatures appear once, under their primary family,
+  with their other family noted.
+
+----------------------------------------------------------------
+Family: Oozes & Slimes (8)
+----------------------------------------------------------------
+Slime | Oozes & Slimes | Materials: 
+Cave Jelly | Oozes & Slimes | Materials: 
+Amber Ooze | Oozes & Slimes | Materials: 
+Mire Pudding | Oozes & Slimes | Materials: 
+Acid Blob | Oozes & Slimes | Materials: 
+Gloom Ooze | Oozes & Slimes | Materials: 
+Mercury Slime | Oozes & Slimes | Materials: 
+Primordial Ooze | Oozes & Slimes | Materials: 
+
+----------------------------------------------------------------
+Family: Vermin & Cave Crawlers (17)
+----------------------------------------------------------------
+Cave Rat | Vermin & Cave Crawlers | Materials: 
+Rat Swarm | Vermin & Cave Crawlers | Materials: 
+Cave Bat | Vermin & Cave Crawlers | Materials: 
+Cave Spider | Vermin & Cave Crawlers | Materials: silk
+Cave Wasp | Vermin & Cave Crawlers | Materials: 
+Cave Scorpion | Vermin & Cave Crawlers | Materials: 
+Centipede | Vermin & Cave Crawlers | Materials: 
+Cave Frog | Vermin & Cave Crawlers | Materials: 
+Giant Rat | Vermin & Cave Crawlers | Materials: 
+Vampire Bat | Vermin & Cave Crawlers | Materials: 
+Widow Spider | Vermin & Cave Crawlers | Materials: 
+Emperor Scorpion | Vermin & Cave Crawlers | Materials: 
+Stag Beetle | Vermin & Cave Crawlers | Materials: 
+Burrow Worm | Vermin & Cave Crawlers | Materials: 
+Carrion Worm | Vermin & Cave Crawlers | Materials: 
+Hornet Matriarch | Vermin & Cave Crawlers | Materials: 
+Ōmukade (also Japanese Yōkai) | Vermin & Cave Crawlers | Materials: 
+
+----------------------------------------------------------------
+Family: Beasts (23)
+----------------------------------------------------------------
+Wolf | Beasts | Materials: fur
+Wild Boar | Beasts | Materials: leather
+Hyena | Beasts | Materials: 
+Giant Serpent | Beasts | Materials: 
+Grizzly | Beasts | Materials: 
+Dire Wolf | Beasts | Materials: 
+Warhound | Beasts | Materials: 
+Cave Bear | Beasts | Materials: 
+Razorback | Beasts | Materials: 
+Panther | Beasts | Materials: 
+Cave Python | Beasts | Materials: 
+Cave Ape | Beasts | Materials: 
+Baboon Troop | Beasts | Materials: 
+Crag Ram | Beasts | Materials: 
+Deep Stag | Beasts | Materials: 
+Grotto Bull | Beasts | Materials: 
+Blind Mole | Beasts | Materials: 
+Crocodile | Beasts | Materials: 
+Lion | Beasts | Materials: 
+Sabertooth | Beasts | Materials: 
+Tiger | Beasts | Materials: 
+Cave Hyena | Beasts | Materials: 
+Pale Horse | Beasts | Materials: 
+
+----------------------------------------------------------------
+Family: Goblin-Kin & Cave Folk (12)
+----------------------------------------------------------------
+Kobold | Goblin-Kin & Cave Folk | Materials: 
+Goblin | Goblin-Kin & Cave Folk | Materials: 
+Goblin Sneak | Goblin-Kin & Cave Folk | Materials: 
+Goblin Shaman | Goblin-Kin & Cave Folk | Materials: 
+Hobgoblin | Goblin-Kin & Cave Folk | Materials: 
+Bugbear | Goblin-Kin & Cave Folk | Materials: 
+Boggart | Goblin-Kin & Cave Folk | Materials: 
+Redcap (also Celtic & British Isles) | Goblin-Kin & Cave Folk | Materials: 
+Spriggan (also Celtic & British Isles) | Goblin-Kin & Cave Folk | Materials: 
+Gremlin | Goblin-Kin & Cave Folk | Materials: 
+Púca (also Celtic & British Isles) | Goblin-Kin & Cave Folk | Materials: 
+Goblin Champion | Goblin-Kin & Cave Folk | Materials: 
+
+----------------------------------------------------------------
+Family: Orcs, Trolls & Giant-Kin (15)
+----------------------------------------------------------------
+Orc | Orcs, Trolls & Giant-Kin | Materials: 
+Orc Berserker | Orcs, Trolls & Giant-Kin | Materials: 
+Half-Ogre | Orcs, Trolls & Giant-Kin | Materials: 
+Ogre | Orcs, Trolls & Giant-Kin | Materials: 
+Marsh Troll | Orcs, Trolls & Giant-Kin | Materials: 
+Troll | Orcs, Trolls & Giant-Kin | Materials: 
+Orc Shaman | Orcs, Trolls & Giant-Kin | Materials: 
+Cave Troll | Orcs, Trolls & Giant-Kin | Materials: 
+Ettin | Orcs, Trolls & Giant-Kin | Materials: 
+Cyclops | Orcs, Trolls & Giant-Kin | Materials: 
+Hill Giant | Orcs, Trolls & Giant-Kin | Materials: 
+Stone Giant | Orcs, Trolls & Giant-Kin | Materials: 
+Frost Giant (also Norse & Germanic) | Orcs, Trolls & Giant-Kin | Materials: 
+Ogre Mage | Orcs, Trolls & Giant-Kin | Materials: 
+Fire Giant (also Norse & Germanic) | Orcs, Trolls & Giant-Kin | Materials: 
+
+----------------------------------------------------------------
+Family: The Undead (23)
+----------------------------------------------------------------
+Skeleton | The Undead | Materials: 
+Skeleton Archer | The Undead | Materials: 
+Zombie | The Undead | Materials: 
+Skeleton Knight | The Undead | Materials: 
+Ghoul (also Demons, Devils & the Damned) | The Undead | Materials: 
+Barrow Wight | The Undead | Materials: 
+Specter | The Undead | Materials: 
+Poltergeist | The Undead | Materials: 
+Draugr (also Norse & Germanic) | The Undead | Materials: 
+Mummy (also Egyptian & Near East) | The Undead | Materials: 
+Phantom | The Undead | Materials: 
+Banshee (also Celtic & British Isles) | The Undead | Materials: 
+Vampire | The Undead | Materials: 
+Strigoi | The Undead | Materials: 
+Jiangshi (also Chinese & East Asian) | The Undead | Materials: 
+Vetala (also South Asian) | The Undead | Materials: 
+Revenant | The Undead | Materials: 
+Sluagh (also Celtic & British Isles) | The Undead | Materials: 
+Wight Lord | The Undead | Materials: 
+Lich | The Undead | Materials: 
+Dullahan (also Celtic & British Isles) | The Undead | Materials: 
+Gashadokuro (also Japanese Yōkai) | The Undead | Materials: 
+Penanggalan | The Undead | Materials: 
+
+----------------------------------------------------------------
+Family: Greek & Mediterranean Myth (17)
+----------------------------------------------------------------
+Satyr | Greek & Mediterranean Myth | Materials: 
+Harpy (also Sky & Storm) | Greek & Mediterranean Myth | Materials: 
+Centaur | Greek & Mediterranean Myth | Materials: 
+Siren | Greek & Mediterranean Myth | Materials: 
+Hellhound (also Demons, Devils & the Damned) | Greek & Mediterranean Myth | Materials: 
+Minotaur | Greek & Mediterranean Myth | Materials: 
+Stymphalian Bird (also Sky & Storm) | Greek & Mediterranean Myth | Materials: 
+Bronze Bull | Greek & Mediterranean Myth | Materials: 
+Gorgon | Greek & Mediterranean Myth | Materials: 
+Chimera | Greek & Mediterranean Myth | Materials: 
+Sphinx | Greek & Mediterranean Myth | Materials: 
+Griffin (also Sky & Storm) | Greek & Mediterranean Myth | Materials: 
+Manticore | Greek & Mediterranean Myth | Materials: 
+Lamia | Greek & Mediterranean Myth | Materials: 
+Empusa | Greek & Mediterranean Myth | Materials: 
+Nemean Lion | Greek & Mediterranean Myth | Materials: 
+Hydra (also Dragons & Great Serpents) | Greek & Mediterranean Myth | Materials: 
+
+----------------------------------------------------------------
+Family: Norse & Germanic (10)
+----------------------------------------------------------------
+Sea Serpent | Norse & Germanic | Materials: 
+Nixie | Norse & Germanic | Materials: 
+Hulder | Norse & Germanic | Materials: 
+Mare | Norse & Germanic | Materials: 
+Dark Elf (Dökkálfar) | Norse & Germanic | Materials: 
+Alfar Raider | Norse & Germanic | Materials: 
+Fallen Valkyrie (also Celestials & the Fallen) | Norse & Germanic | Materials: 
+Great Wolf | Norse & Germanic | Materials: 
+Lindworm (also Dragons & Great Serpents) | Norse & Germanic | Materials: 
+Kraken (also Aquatic & the Drowned Deep) | Norse & Germanic | Materials: 
+
+----------------------------------------------------------------
+Family: Egyptian & Near East (9)
+----------------------------------------------------------------
+Scarab Swarm | Egyptian & Near East | Materials: 
+Asp | Egyptian & Near East | Materials: 
+Jackal Guardian | Egyptian & Near East | Materials: 
+Guardian Scorpion | Egyptian & Near East | Materials: 
+Serpopard | Egyptian & Near East | Materials: 
+Sha Beast | Egyptian & Near East | Materials: 
+Falcon Sphinx | Egyptian & Near East | Materials: 
+Devourer Beast | Egyptian & Near East | Materials: 
+Ushabti (also Golems & Constructs) | Egyptian & Near East | Materials: 
+
+----------------------------------------------------------------
+Family: Japanese Yōkai (13)
+----------------------------------------------------------------
+Karakasa | Japanese Yōkai | Materials: 
+Chōchin-obake | Japanese Yōkai | Materials: 
+Kappa | Japanese Yōkai | Materials: 
+Oni | Japanese Yōkai | Materials: 
+Bake-danuki | Japanese Yōkai | Materials: 
+Kasha | Japanese Yōkai | Materials: 
+Kitsune | Japanese Yōkai | Materials: 
+Tengu | Japanese Yōkai | Materials: 
+Yuki-onna | Japanese Yōkai | Materials: 
+Jorōgumo | Japanese Yōkai | Materials: 
+Nure-onna | Japanese Yōkai | Materials: 
+Nue | Japanese Yōkai | Materials: 
+Tsuchigumo | Japanese Yōkai | Materials: 
+
+----------------------------------------------------------------
+Family: Celtic & British Isles (8)
+----------------------------------------------------------------
+Kelpie (also Aquatic & the Drowned Deep) | Celtic & British Isles | Materials: 
+Merrow (also Aquatic & the Drowned Deep) | Celtic & British Isles | Materials: 
+Selkie | Celtic & British Isles | Materials: 
+Cat Sìth | Celtic & British Isles | Materials: 
+Bauchan | Celtic & British Isles | Materials: 
+Fachan | Celtic & British Isles | Materials: 
+Afanc | Celtic & British Isles | Materials: 
+Bean-nighe | Celtic & British Isles | Materials: 
+
+----------------------------------------------------------------
+Family: Slavic (11)
+----------------------------------------------------------------
+Domovoi | Slavic | Materials: 
+Kikimora | Slavic | Materials: 
+Rusalka (also Aquatic & the Drowned Deep) | Slavic | Materials: 
+Vodyanoy | Slavic | Materials: 
+Striga | Slavic | Materials: 
+Leshy (also Plants & Fungi) | Slavic | Materials: 
+Alkonost | Slavic | Materials: 
+Gamayun | Slavic | Materials: 
+Mora | Slavic | Materials: 
+Zmey (also Dragons & Great Serpents) | Slavic | Materials: 
+Firebird (also Sky & Storm) | Slavic | Materials: 
+
+----------------------------------------------------------------
+Family: Mesopotamian (8)
+----------------------------------------------------------------
+Cedar Guardian | Mesopotamian | Materials: 
+Galla | Mesopotamian | Materials: 
+Scorpion Man | Mesopotamian | Materials: 
+Ugallu | Mesopotamian | Materials: 
+Lamassu | Mesopotamian | Materials: 
+Mušḫuššu | Mesopotamian | Materials: 
+Anzu (also Sky & Storm) | Mesopotamian | Materials: 
+Asag | Mesopotamian | Materials: 
+
+----------------------------------------------------------------
+Family: South Asian (8)
+----------------------------------------------------------------
+Naga (also Aquatic & the Drowned Deep) | South Asian | Materials: 
+Yaksha | South Asian | Materials: 
+Bhūta | South Asian | Materials: 
+Piśāca | South Asian | Materials: 
+Rakshasa | South Asian | Materials: 
+Makara (also Aquatic & the Drowned Deep) | South Asian | Materials: 
+Asura | South Asian | Materials: 
+Garuda (also Sky & Storm) | South Asian | Materials: 
+
+----------------------------------------------------------------
+Family: Chinese & East Asian (9)
+----------------------------------------------------------------
+Terracotta Soldier (also Golems & Constructs) | Chinese & East Asian | Materials: 
+Mountain Yaoguai | Chinese & East Asian | Materials: 
+Xiezhi | Chinese & East Asian | Materials: 
+Hulijing | Chinese & East Asian | Materials: 
+Mogwai | Chinese & East Asian | Materials: 
+River Long (also Dragons & Great Serpents) | Chinese & East Asian | Materials: 
+Taotie | Chinese & East Asian | Materials: 
+Hundun | Chinese & East Asian | Materials: 
+Qilin, Corrupted | Chinese & East Asian | Materials: 
+
+----------------------------------------------------------------
+Family: Mesoamerican & Andean (6)
+----------------------------------------------------------------
+Ahuizotl | Mesoamerican & Andean | Materials: 
+Death Bat | Mesoamerican & Andean | Materials: 
+Nagual | Mesoamerican & Andean | Materials: 
+Storm Wraith | Mesoamerican & Andean | Materials: 
+Tzitzimitl | Mesoamerican & Andean | Materials: 
+Cipactli Brood | Mesoamerican & Andean | Materials: 
+
+----------------------------------------------------------------
+Family: African Traditions (6)
+----------------------------------------------------------------
+Tokoloshe | African Traditions | Materials: 
+Adze | African Traditions | Materials: 
+Impundulu (also Sky & Storm) | African Traditions | Materials: 
+Sasabonsam | African Traditions | Materials: 
+Mami Wata | African Traditions | Materials: 
+Inkanyamba | African Traditions | Materials: 
+
+----------------------------------------------------------------
+Family: Fey & Nature Spirits (11)
+----------------------------------------------------------------
+Pixie | Fey & Nature Spirits | Materials: 
+Sprite | Fey & Nature Spirits | Materials: 
+Bramble Imp | Fey & Nature Spirits | Materials: 
+Brownie | Fey & Nature Spirits | Materials: 
+Dryad (also Plants & Fungi) | Fey & Nature Spirits | Materials: 
+Naiad | Fey & Nature Spirits | Materials: 
+Sylph (also Elementals & Primal Spirits) | Fey & Nature Spirits | Materials: 
+Faun | Fey & Nature Spirits | Materials: 
+Will-o'-wisp | Fey & Nature Spirits | Materials: 
+Changeling | Fey & Nature Spirits | Materials: 
+Elder Dryad (also Plants & Fungi) | Fey & Nature Spirits | Materials: 
+
+----------------------------------------------------------------
+Family: Demons, Devils & the Damned (11)
+----------------------------------------------------------------
+Imp | Demons, Devils & the Damned | Materials: 
+Possessed Cultist | Demons, Devils & the Damned | Materials: 
+Succubus | Demons, Devils & the Damned | Materials: 
+Incubus | Demons, Devils & the Damned | Materials: 
+Pit Brute | Demons, Devils & the Damned | Materials: 
+Djinn | Demons, Devils & the Damned | Materials: 
+Larva of the Damned | Demons, Devils & the Damned | Materials: 
+Ifrit | Demons, Devils & the Damned | Materials: 
+Marid | Demons, Devils & the Damned | Materials: 
+Contract Devil | Demons, Devils & the Damned | Materials: 
+Shaitan | Demons, Devils & the Damned | Materials: 
+
+----------------------------------------------------------------
+Family: Celestials & the Fallen (6)
+----------------------------------------------------------------
+Deva | Celestials & the Fallen | Materials: 
+Seraph | Celestials & the Fallen | Materials: 
+Ophanim | Celestials & the Fallen | Materials: 
+Watcher (Grigori) | Celestials & the Fallen | Materials: 
+Fallen Angel | Celestials & the Fallen | Materials: 
+Ashen Seraph | Celestials & the Fallen | Materials: 
+
+----------------------------------------------------------------
+Family: Elementals & Primal Spirits (10)
+----------------------------------------------------------------
+Gnome | Elementals & Primal Spirits | Materials: 
+Salamander | Elementals & Primal Spirits | Materials: 
+Fire Elemental | Elementals & Primal Spirits | Materials: 
+Water Elemental | Elementals & Primal Spirits | Materials: 
+Earth Elemental | Elementals & Primal Spirits | Materials: 
+Air Elemental | Elementals & Primal Spirits | Materials: 
+Undine | Elementals & Primal Spirits | Materials: 
+Storm Elemental | Elementals & Primal Spirits | Materials: 
+Magma Elemental | Elementals & Primal Spirits | Materials: 
+Frost Elemental | Elementals & Primal Spirits | Materials: 
+
+----------------------------------------------------------------
+Family: Golems & Constructs (9)
+----------------------------------------------------------------
+Clay Golem | Golems & Constructs | Materials: 
+Gargoyle | Golems & Constructs | Materials: 
+Living Statue | Golems & Constructs | Materials: 
+Haunted Armor | Golems & Constructs | Materials: 
+Stone Golem | Golems & Constructs | Materials: 
+Bone Golem | Golems & Constructs | Materials: 
+Brass Automaton | Golems & Constructs | Materials: 
+Iron Golem | Golems & Constructs | Materials: 
+Crystal Golem | Golems & Constructs | Materials: 
+
+----------------------------------------------------------------
+Family: Plants & Fungi (8)
+----------------------------------------------------------------
+Grotto Snapper | Plants & Fungi | Materials: 
+Mandrake | Plants & Fungi | Materials: 
+Vampire Vine | Plants & Fungi | Materials: 
+Fungal Shambler | Plants & Fungi | Materials: 
+Walking Oak | Plants & Fungi | Materials: 
+Thornhound | Plants & Fungi | Materials: 
+Spore Servant | Plants & Fungi | Materials: 
+Corpse Flower | Plants & Fungi | Materials: 
+
+----------------------------------------------------------------
+Family: Aquatic & the Drowned Deep (6)
+----------------------------------------------------------------
+Cave Moray | Aquatic & the Drowned Deep | Materials: 
+Drowned Sailor | Aquatic & the Drowned Deep | Materials: 
+Giant Octopus | Aquatic & the Drowned Deep | Materials: 
+Deep Crab | Aquatic & the Drowned Deep | Materials: 
+Lanternjaw | Aquatic & the Drowned Deep | Materials: 
+World Wurm | Aquatic & the Drowned Deep | Materials: 
+
+----------------------------------------------------------------
+Family: Dragons & Great Serpents (10)
+----------------------------------------------------------------
+Drake | Dragons & Great Serpents | Materials: 
+Wyvern | Dragons & Great Serpents | Materials: 
+Cockatrice | Dragons & Great Serpents | Materials: 
+Jaculus | Dragons & Great Serpents | Materials: 
+Wyrm | Dragons & Great Serpents | Materials: 
+Basilisk | Dragons & Great Serpents | Materials: 
+Amphiptere | Dragons & Great Serpents | Materials: 
+Peluda | Dragons & Great Serpents | Materials: 
+Elder Wyrm | Dragons & Great Serpents | Materials: 
+Tarasque | Dragons & Great Serpents | Materials: 
+
+----------------------------------------------------------------
+Family: Humans & the Damned Living (11)
+----------------------------------------------------------------
+Brigand | Humans & the Damned Living | Materials: 
+Grave Robber | Humans & the Damned Living | Materials: 
+Cultist | Humans & the Damned Living | Materials: 
+Witch | Humans & the Damned Living | Materials: 
+Berserker | Humans & the Damned Living | Materials: 
+Bandit Chief | Humans & the Damned Living | Materials: 
+Mad Alchemist | Humans & the Damned Living | Materials: 
+Necromancer | Humans & the Damned Living | Materials: 
+Warlock | Humans & the Damned Living | Materials: 
+Plague Bearer | Humans & the Damned Living | Materials: 
+Fallen Knight | Humans & the Damned Living | Materials: 
+
+----------------------------------------------------------------
+Family: Sky & Storm (6)
+----------------------------------------------------------------
+Storm Crow | Sky & Storm | Materials: 
+Roc | Sky & Storm | Materials: 
+Phoenix | Sky & Storm | Materials: 
+Thunderbird | Sky & Storm | Materials: 
+Simurgh | Sky & Storm | Materials: 
+Ziz | Sky & Storm | Materials: 
+
+----------------------------------------------------------------
+Family: The Abyssal & Cosmic (9)
+----------------------------------------------------------------
+Living Shadow | The Abyssal & Cosmic | Materials: 
+Titan | The Abyssal & Cosmic | Materials: 
+Void Horror | The Abyssal & Cosmic | Materials: 
+Null Seraph | The Abyssal & Cosmic | Materials: 
+Entropy Wraith | The Abyssal & Cosmic | Materials: 
+Star Horror | The Abyssal & Cosmic | Materials: 
+The Hollow Choir | The Abyssal & Cosmic | Materials: 
+Ashen Titan | The Abyssal & Cosmic | Materials: 
+Ur-Dragon | The Abyssal & Cosmic | Materials: 

@@ -1,0 +1,88 @@
+================================================================
+ABYSMAL — Playtester Feedback Form, v0.11.0 edition (for Jeff)
+Producer/Director: Aethelwarden Solas
+Build: Windows demo v5 (= v0.11.0, same content as the Android APK)
+================================================================
+
+Jeff — thank you. Your design feedback (Oct 20) already reshaped this
+game: Hope, the Life Tree, the laurel itself. This round is NOT design
+feedback. This round is your GAMEPLAY-FEEL eyes: how it feels to play
+on Windows, moment to moment. That's the view we still owe the game,
+and it's the one only you can give us right now.
+
+WHAT WE'RE LOOKING FOR ON THIS BUILD:
+- Ceilings and doors: do the new ceiling slabs and rebuilt double
+  doors read clearly? Do locked doors (red shackle, LOCKED labels)
+  read instantly, or do you have to squint?
+- The founders: Marla, Harlan, Tovan, Sarella, and Pello standing in
+  the dungeon at depths 2/4/6/8/10 — do they feel present, or like
+  furniture? Does Pello's deed dialog at depth 10 flow?
+- The Life Tree start: unlocks on completing depth 1. Does the crown
+  view make sense at first sight? Does tapping a leaf feel right?
+- Combat and pace: swings, damage feedback, the leisurely pace —
+  does it feel good on Windows, or clunky, slow, unfair, unclear?
+- Anything that breaks, freezes, or looks wrong — screenshots of
+  weird moments are gold.
+
+KNOWN ISSUES (already diagnosed — no need to re-report, but tell us
+if you see them, since confirmation still helps):
+- Opening the Life Tree can let HUD elements (health, minimap, etc.)
+  show through on top of it, and HUD buttons may stay tappable
+  through the tree. Root cause found (layer order); fix is parked
+  for a future build.
+- The Life Tree button can sit clipped at the screen edge (a stale
+  height number). Same story: diagnosed, fix parked.
+
+YOUR NAME (or handle):
+BUILD TESTED: Windows demo v5 (v0.11.0)
+DEVICE (PC model, OS version, keyboard/mouse/controller if you know it):
+
+----------------------------------------------------------------
+1. WHAT FELT GOOD?
+   What did you enjoy? What felt smooth, satisfying, funny, or right?
+   (Combat feel, pace, hands/weapons, loot moments, music, anything.)
+
+----------------------------------------------------------------
+2. WHAT FELT BAD?
+   What frustrated, bored, or confused you? What felt slow, clunky,
+   unfair, or unclear?
+
+----------------------------------------------------------------
+3. DID ANYTHING BREAK?
+   Crashes, freezes, visual glitches, doors/ceilings looking wrong,
+   buttons not responding, saves misbehaving — anything at all.
+   If you can, tell us what you were doing when it happened, and
+   attach a screenshot.
+
+----------------------------------------------------------------
+4. ARE WE DOING SOMETHING WRONG?
+   Is there a design choice, a system, or a direction that feels like
+   a mistake to you? Be blunt — this is the question that saves us
+   the most time.
+
+----------------------------------------------------------------
+5. ARE WE DOING SOMETHING RIGHT?
+   What should we absolutely keep, protect, or do more of?
+
+----------------------------------------------------------------
+6. WHAT SHOULD WE FOCUS ON FOR THE NEXT BUILD?
+   If you could point us at one thing — one fix, one feature, one
+   feeling — what would it be?
+
+----------------------------------------------------------------
+7. ANYTHING ELSE?
+   Ideas, wishes, comparisons to other games, things you expected
+   that weren't there, anything at all.
+
+----------------------------------------------------------------
+ALL FEEDBACK IS WELCOME — and non-judgmental. Harsh notes are fine;
+vague notes are fine; a single sentence is fine. James and Milo
+consider every piece of feedback together. Nothing you write here
+will be held against you, and you are never obligated to test, to
+finish, or to reply on any schedule. Your life comes first — no rush,
+no pressure. Send it back to James whenever you're ready, in whatever
+shape is easiest (filled in here, pasted into chat, voice note — all
+good).
+
+Thank you. Seriously — thank you for your time, your eyes, and your
+honesty.
