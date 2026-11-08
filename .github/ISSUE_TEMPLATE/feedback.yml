@@ -1,0 +1,61 @@
+name: Gameplay feedback
+description: Tell us what you played and how it felt — what worked, what didn't, what you'd change.
+title: "[Feedback] "
+labels: ["feedback"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for playing Abysmal! Constructive and specific feedback helps
+        the most — what you actually did, what happened, and what you'd
+        change. There are no wrong answers; the game is still taking shape.
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: Which build were you playing? (e.g. v0.12.0, Windows demo)
+      placeholder: v0.12.0
+    validations:
+      required: true
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Platform
+      options:
+        - Android
+        - Windows
+        - macOS
+        - Linux
+        - Web
+    validations:
+      required: true
+  - type: textarea
+    id: played
+    attributes:
+      label: What did you play?
+      description: How far did you get? How long did you play? What were you doing?
+      placeholder: Delved to depth 6 over two evenings, mostly idle with manual boss fights…
+    validations:
+      required: true
+  - type: textarea
+    id: liked
+    attributes:
+      label: What did you like?
+      description: The moments that worked — the things that should stay.
+      placeholder: The lava theme floors felt properly hostile, and the offline earnings screen is satisfying…
+  - type: textarea
+    id: off
+    attributes:
+      label: What felt off, and what would you change?
+      description: Be specific if you can — "the third floor felt empty" helps more than "it was boring".
+      placeholder: …
+    validations:
+      required: true
+  - type: textarea
+    id: extra
+    attributes:
+      label: Anything else?
+      description: Ideas, wishes, comparisons — anything that came to mind while playing.
+      placeholder: …
+    validations:
+      required: false
