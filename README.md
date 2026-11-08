@@ -102,12 +102,15 @@ never paywalled. Original names, lore, art, and UI only.
 
 ## Feedback
 
-Feedback from playtesters is how it gets better. Open an issue:
+Feedback from playtesters is how it gets better. The easiest way is
+**Discussions** — no form, just post:
 
-- **Gameplay feedback** — what you played, what you liked, what felt
-  off, what you'd change. Constructive and specific helps most.
-- **Bug report** — what happened, how to reproduce it, your device and
-  version.
+**[Give feedback on Discussions](https://github.com/HyrulianZer0/Abysmal/discussions)**
+— what you played, what you liked, what felt off, what you'd change.
+Constructive and specific helps most.
+
+Found a bug? Open an **Issue** instead, with what happened, how to
+reproduce it, your device, and the version you played.
 
 ## Credits
 
