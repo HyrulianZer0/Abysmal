@@ -1,0 +1,11 @@
+# Abysmal — never commit these
+.godot/
+keystore/
+assets/audio/alkakrab/
+test_logs/
+
+# NOTE: export_presets.cfg currently holds the Android release keystore
+# password inline. Strip that line before any push beyond this private
+# repo; CI injects the password from a secret instead (see
+# .github/workflows/build.yml). The keystore itself lives in keystore/
+# and is excluded above.
