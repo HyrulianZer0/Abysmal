@@ -1,0 +1,82 @@
+{
+  "staged": {
+    "accent_diff_1k.jpg": {
+      "bytes": 729189,
+      "size": "1024x1024"
+    },
+    "ceiling_diff_1k.jpg": {
+      "bytes": 1577613,
+      "size": "1024x1024"
+    },
+    "ceiling_emissive_1k.jpg": {
+      "bytes": 1460839,
+      "size": "1024x1024"
+    },
+    "floor_diff_1k.jpg": {
+      "bytes": 1483553,
+      "size": "1024x1024"
+    },
+    "floor_emissive_1k.jpg": {
+      "bytes": 1476091,
+      "size": "1024x1024"
+    },
+    "wall_diff_1k.jpg": {
+      "bytes": 777492,
+      "size": "1024x1024"
+    }
+  },
+  "palette": {
+    "accent_diff_1k.jpg": [
+      63,
+      59,
+      54
+    ],
+    "ceiling_diff_1k.jpg": [
+      78,
+      55,
+      59
+    ],
+    "ceiling_emissive_1k.jpg": [
+      42,
+      13,
+      8
+    ],
+    "floor_diff_1k.jpg": [
+      172,
+      68,
+      46
+    ],
+    "floor_emissive_1k.jpg": [
+      162,
+      57,
+      32
+    ],
+    "wall_diff_1k.jpg": [
+      61,
+      54,
+      49
+    ]
+  },
+  "seam": {
+    "accent_diff_1k.jpg": 5.02,
+    "ceiling_diff_1k.jpg": 8.68,
+    "ceiling_emissive_1k.jpg": 7.42,
+    "floor_diff_1k.jpg": 6.26,
+    "floor_emissive_1k.jpg": 7.31,
+    "wall_diff_1k.jpg": 10.14
+  },
+  "fallbacks": [
+    "accent_diff_512.jpg",
+    "accent_diff_256.jpg",
+    "ceiling_diff_512.jpg",
+    "ceiling_diff_256.jpg",
+    "ceiling_emissive_512.jpg",
+    "ceiling_emissive_256.jpg",
+    "floor_diff_512.jpg",
+    "floor_diff_256.jpg",
+    "floor_emissive_512.jpg",
+    "floor_emissive_256.jpg",
+    "wall_diff_512.jpg",
+    "wall_diff_256.jpg"
+  ]
+}

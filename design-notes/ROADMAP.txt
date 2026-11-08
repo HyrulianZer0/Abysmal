@@ -1,0 +1,263 @@
+================================================================
+ABYSMAL — Project Roadmap
+Producer/Director: Aethelwarden Solas
+Status as of: November 1, 2026 | Current build: v0.11.0 (Android) + Windows demo v5 (+ Tristan playtest package, same build)
+Next push: PENDING the director's green light (Nov 1: winding up, not ready yet) — one push per week
+================================================================
+
+WHAT IT IS: a 2.5D first-person idle dungeon-crawler roguelike for
+Android (PC demos for testing). The thesis: "the endless abyss is the
+endgame, with no end." No timelimit, no pressure, non-canon quests,
+infinite growth. You delve, the dungeon plays itself, you steer it.
+
+HOW WE WORK (the pacing method): at most ONE development push per
+week, by design. It keeps the work sustainable, the feedback loop
+clean, and every build worth testing properly. Versioning is not
+decimal (after 0.10.0 comes 0.11.0); 1.0 is reserved for public launch.
+Work is staged inside a push — fixes first, then NPCs, then the Life
+Tree start — so no week ever blows past its budget blind.
+
+Status key: [LIVE] in v0.10.0 | [0.11.0] shipped Oct 24 | [STAGED] in the project, not in any build | [PLAN] designed, parked | [OPEN] still to decide
+
+----------------------------------------------------------------
+SHIPPED — LIVE in v0.10.0
+----------------------------------------------------------------
+[LIVE] Full dungeon loop: delve, fight, loot, die, grow — self-sustaining
+[LIVE] First-person rig: gloved hand + weapon, 4 grips, animated swings
+       (damage lands on the downswing), two-hand chest reach
+[LIVE] Delve pace: leisurely / normal / swift (dungeon only, cosmetic —
+       never touches combat or economy); gentler depth-walk curve
+[LIVE] Turn smoothing: yaw no longer whips at deep depths
+[LIVE] Offline earnings: full speed, "While You Were Away..." screen
+[LIVE] Full-speed offline with soft cap: 7 days full rate, then reduced
+       (window grows: 1 month after prestige, 1 year after ascension)
+[LIVE] Guild hall chain (tavern 1500G -> guild -> expansion -> HQ)
+[LIVE] Town + overworld scaffolding; death returns you to town
+[LIVE] Backstab x1.5 (behind or on sleepers); fresh-loot barks; chest
+       opens only after the fight (perception double-check hooked)
+[LIVE] Tutorial popups (floor 1); settings screen (Music/SFX, quality)
+[LIVE] Balance: floor 10 falls in a few tries; balance soak target met
+[LIVE] 8 curated music tracks (Alkakrab); event SFX; depth-aware music
+[LIVE] Hidden dev corner: DEV speed (players cap at 8x), god mode,
+       "next floor: monster floor" button, hardship toggles
+[LIVE] Denser floors (+33-37% rooms), map sizes 40x40 -> 120x120 (caps at
+       depth 21)
+[LIVE] 39-rung rarity LADDER documented (game currently uses 4 tiers)
+
+----------------------------------------------------------------
+SHIPPED — v0.11.0 (Oct 24, 2026: Android APK + Windows demo v5)
+----------------------------------------------------------------
+[0.11.0] 0.10.0 FIXES: real ceiling slabs over every open cell (dark
+       brick + moss), wall caps + brick headers above doors — no more
+       black void. Door rebuild: full double-door textures on proper
+       quad faces, visible red shackle on locked doors, readable LOCKED
+       labels on both faces.
+[0.11.0] NPC EMBODIMENT: the breadcrumb five stand in the dungeon at
+       depths 2/4/6/8/10 — Marla Bramble (farmer), Harlan Slate (miner),
+       Tovan Ashe (woodcutter), Sarella Vex (blacksmith), Pello Quin
+       (trader). Their passives root into the Life Tree automatically.
+       Silhouettes OK as placeholders; Quaternius-style CC0 models
+       preferred. Depth-10 tavern scene: Pello sells you the deed for
+       gold; signing opens the TOWN BUILDING MANAGEMENT menu.
+[0.11.0] LIFE TREE START: the persistent infinite skill tree, first
+       stage. Unlocks on completing depth 1. Opens with the 5 founders
+       + helpful stat buffs. Web, not branches: no gates, every node
+       always available (currency-gated only); no bad picks, so no
+       respec is ever needed. Break-null lives here: NO stat caps, ever
+       (crit past 100% always lands, overflow adds crit DAMAGE).
+       The tree is the soul made visible — a LAUREL (leafed crown),
+       not rings: the soul earns 6 rings (3 left, 3 right) and trades
+       them in for the laurel, one-time and permanent. Tap a leaf for
+       its stats panel and its vein-tree of buffs. The VINE binding the
+       leaves is the ascension tree itself — an ouroboros circle,
+       never overgrowing, never shrinking. Navigation is center-first:
+       the vine is home; leaves branch off it; a laurel-shaped HOME
+       button always returns you to the crown.
+
+----------------------------------------------------------------
+STAGED — Oct 27, 2026 (in the project, NOT in any build yet)
+----------------------------------------------------------------
+[STAGED] DUNGEON TEXTURES: 24 real Poly Haven CC0 1K diffuse JPGs
+       (~19 MB) in 9 variation folders — brick, stone, mossy dark,
+       cavern, forest, swamp, frozen (approximate), ember, gilded.
+       Style DECIDED Nov 1: blend all textures into one house resource
+       pack, anchored at 1K quality, realistic (not 4K; 2K likely too
+       high). 1K = high/extreme; 512/256 fallback-only (128 joins if
+       the ladder expands); fallback is both player-chosen and
+       automatic. Original devs credited for resources AND
+       inspiration. Wiring into dungeon_view.gd still to do. Missing
+       sets: Flooded Deep, Bone Wastes, Fungal Grotto, Void Scar,
+       Storm Spire.
+[STAGED] MONSTERS 13 -> 28: 15 new staged placeholders from the roster
+       (boar, scorpion, centipede, skeleton archer, kobold, imp, pixie,
+       orc, troll, minotaur, harpy, oni, kappa, drake, banshee) — each
+       with unique behavior patterns, all tests passing. Spawn wiring
+       NOT done: the game still spawns only slime/bat/skeleton.
+       Real models still need the Quaternius CC0 packs (human
+       itch.io clickthrough outstanding); vocals are specs only.
+[STAGED] LAUREL UI REWORK DRAFT (design doc only): "as if you are
+       holding the laurel" — tap a leaf, see its skills and buffs from
+       within via the vein-tree. Center-first navigation, laurel-shaped
+       HOME icon. The two known v0.11.0 UI bugs (HUD overlap, button
+       clip) are hard requirements the rework fixes by construction.
+[STAGED] UI BUG DIAGNOSIS (Oct 24-25): HUD-overlap root cause = layer
+       order (tree layer 1 vs HUD 10, touch 20) + 0.92-alpha backdrop;
+       button-clip root cause = pinned column height 216 vs 244px of
+       content. Fixes written up, awaiting a future push; diagnostic
+       suite stands at 11 failures until then.
+
+----------------------------------------------------------------
+DECIDED — Nov 1, 2026 (locked by the director)
+----------------------------------------------------------------
+- Texture pack: one house resource pack, 1K realistic anchor (see
+  STAGED textures above); expansion ladder if wanted: 1K
+  high/extreme, 512 high/medium, 256 medium/low, 128 low.
+- Mercy: each mercy trigger shaves 10% off the foe's CURRENT HP
+  (compounding, never zero), until the player defeats THAT foe;
+  attack untouched; next spawn of the type starts fresh. Scope:
+  individual foe, not type, not floor (it could be an apex or one
+  boosted skeleton).
+- Traps: disarming a trapped chest (or trapped door — doors are an
+  option too) is a d20 roll: 1 = critical fail (most to all of the
+  loot lost), 20 = critical success (bonus loot + learn the trap),
+  2-19 graduate between. Mechanical chest traps are ADDED alongside
+  mimics (mimics are the chest-monster surprise; chest traps are
+  the disarmable kind).
+- Zones: monster placement is RANDOM, not coded per zone — no
+  zone-exclusive list. The game isn't resource farming; it's endless
+  enjoyment with no endgame. (Theme structure already random.)
+- Audio: jalastram-voice-008.mp3 (16.3 s gasp) REPURPOSED as a
+  zombie/ghoul gasping loop, undead ambient — not cut. Pool move
+  from FLAGGED lands in the next push.
+- Itch.io clickthrough APPROVED if the assets are free and want
+  credit (Quaternius Animated Easy Enemies, KayKit, LOWPO goblins).
+- The laurel IS the Life Tree's form (vine = ascension tree, leaves
+  = skills/buffs, upgrades indefinitely); the standalone Life Tree
+  design paper is folded into the laurel draft.
+- Town is a clipboard management interface (Oct 11): tap a building,
+  its menu loads; tap the clipboard, jump destinations. Tavern and
+  guild upgrades live in the clipboard too.
+- SEQUENCING (Nov 1): finish the abyss entirely BEFORE tavern/town
+  work. Jeff, Tristan, and Fen playtest the endless
+  dungeon-delving loop meanwhile; town fine-tuning (city, tavern,
+  buildings, more buildings, maybe more towns) comes after — ideas,
+  not locked.
+
+----------------------------------------------------------------
+PLANNED — designed, build order flexible
+----------------------------------------------------------------
+[PLAN] HOPE currency (replaces platinum, Oct 24): the town's strength
+       raises the people's Hope. Buildings are the Hope ENGINE
+       (upgrades raise Hope income); the Life Tree is the Hope SINK
+       (Hope -> permanent power). Sequencing, not starvation.
+       Currency ladder: gold (mortal) -> Hope (prestige) -> Ambrosia
+       (divine). Compounding: single clean multiplier M = 2^(p+a) on
+       whole-tree power. Cost scaling ~10^N per loop.
+[PLAN] PRESTIGE defined: prestige = BUILDING THE TOWN and receiving its
+       buffs — both PERMANENT buffs (soul-level, survive rebirth) and
+       RUN-BASED buffs (current life only, re-earned each life).
+[PLAN] REBIRTH + AMBROSIA: sacrifice reframed as rebirth — gain Ambrosia
+       for ascension through being remade, not through loss. Only the
+       player character resets (life/delve/gear); town, Life Tree, Hope,
+       and everyone in it persist — and that persistence makes the
+       rewards greater (town strength feeds rebirth yield). The Life
+       Tree persists through rebirth because it IS your soul. Ambrosia
+       is spent at the Temple. (The old invisible Abyssal Token retires
+       into this economy; any award gets a real moment: banner + sound
+       + visible counter.)
+[PLAN] TOWN BUILDINGS: built one by one, each with LEVELS that raise its
+       stat bonuses and unlock more of its options. Build order is the
+       PLAYER'S CHOICE — all buildings visible but GREYED OUT until
+       requirements are met. Each building needs its RELEVANT RESOURCES
+       (gathering-zone materials, not just gold). Town unlocks at depth
+       10 via the tavern. Guild Hall is the dispatch center — leveling
+       it grows dispatch slots. Roster: Tavern (food/regen buffs,
+       adventurer pool), Smith (forge gear, upgrade adventurers' gear),
+       Alchemist (potions), Guild Hall (delving skills: lockpicking,
+       perception, stealth), Temple (luck/rarity + Ambrosia tree),
+       Training Grounds (core stats), Mage's Guild (below), Life Tree.
+[PLAN] MAGE'S GUILD (the Arcanum): home of spells and enchanting.
+       Adventurers AUTO-CAST their spells. Player enchantments are
+       PERMANENT boosts — no recharge costs; improved enchantments are
+       just stronger. Progression is not strictly solo-first: level the
+       Arcanum early for adventurer spells; a GUILD MASTER is required
+       for a specific task/floor later, by which point the player has
+       unlocked some enchantments.
+[PLAN] GATHERING ZONES: Forest (wood), Caverns (stone/metal), Swamp
+       (herbs) — BOTH guild-dispatch destinations AND places you can
+       delve yourself. New dungeon themes/textures + zone-appropriate
+       monsters. Zones feed town construction.
+[PLAN] MONSTER RESOURCE DROPS: monsters drop thematic resources — wolf
+       -> fur, boar -> leather, spider -> silk. More monsters = more
+       resource variety; drops feed crafting and building. "Use the
+       monster to the advantage of the player."
+[PLAN] Guild dispatch: timed missions, 4 classes, composition puzzle,
+       units can fail but always return with something. NO permadeath.
+[PLAN] Undercrucible (the Converter): melt gear into DROSSGLASS to
+       strengthen existing gear (materials -> existing items). Blacksmith
+       creates NEW gear from gold (craft base -> enhance loop). Full
+       extraction: no drop-only tier — endless depth outscales any weapon.
+[PLAN] Delve Endlessly: one continuous run, no floor saved, death ends
+       it. The endless abyss as endgame. (Replaces the old hardcore idea.)
+[PLAN] Elements: damage types AND interactions (fire melts ice, etc.);
+       elements live in the Charm slot.
+[PLAN] Forge Houses (approved): weapon behavior identities — Keenbrand
+       (crits bleed), Marrowdeep (hits heal), Anvilborn (slow/huge),
+       Vexwing (every swing hits 3x), Mirrorhold (riposte), Knell
+       (executes the wounded).
+[PLAN] Mimic + Tsukumogami chests: some chests are monsters. Win = double
+       loot and/or better quality. Mimics (common) breathe faintly;
+       Tsukumogami (rare mini-boss, a century-old chest) are pristine and
+       ornate — the richness is the warning. Perception can spot them.
+[PLAN] Monster roster: ~300 public-domain folklore bases across 28
+       families + element attunements, corruption forms, size variants =
+       ~1,000 roster entries. IP-clean by design (names/ideas aren't
+       copyrighted; only specific designs are avoided).
+[PLAN] Accessibility: Windows Magnifier compatibility REQUIRED
+       (Nov 1, from Tristan himself) + large-text/UI-scale option —
+       required before Tristan (legally blind) can test or play.
+       Tristan playtest package prepared Nov 1 (v0.11.0 Windows demo,
+       same build — predates the accessibility pass; his feedback
+       shapes it).
+[PLAN] Later: named uniques (11 on paper, unique-as-rarity-roll), the
+       full 39-rung rarity ladder in-game, town clipboard UI polish,
+       blacksmith crafting UI, monster behaviors (swarms, kiters,
+       chargers...) per family, slow-mo dev cheat (0.5x/0.25x/0.1x),
+       hand polish (smoother hand, sharper blade, finer guard; distinct
+       slash vs jab; smoother walk; kick-open chests).
+
+----------------------------------------------------------------
+KEY DECISIONS (locked in by the director)
+----------------------------------------------------------------
+- No caps, ever: skill, prestige, ascension, stats — infinite growth.
+- Generosity rule: the worst run still moves five needles.
+- Offline never paywalled; busy lives respected.
+- Original names/lore/art/UI only — no IP borrowed from other games.
+- Chests: fight first, double-check second, then open. Hidden traps get
+  a faint visual hint first.
+- Town is a clipboard management interface: tap a building, you're in;
+  tap the clipboard, you're somewhere else. No walking commute.
+- The dungeon core (delve/loot/die/grow) is BUILT and self-sustaining;
+  everything from here is expansion.
+- The fantasy: "be the change you want to see in the world" — improving
+  yourself AND the world. Rebirth is transformation, not loss.
+
+----------------------------------------------------------------
+STILL OPEN
+----------------------------------------------------------------
+[OPEN] Eyeball checks, PARTLY DONE: James loves the door beams/
+       headers in v0.11.0; found 2 UI bugs (HUD overlap on Life Tree
+       open, Life Tree button clipped) — diagnosed, fixes parked
+[OPEN] 0.8.0->0.10.0 update anecdote: cheat menu didn't appear on the
+       update install; fresh install worked. Not diagnosed — watch it.
+[OPEN] Fine details on Smith, Alchemist, Training Grounds, and Tavern
+       buffs; Guild Hall skill-upgrade details
+[OPEN] Jeff's v0.11.0 gameplay-feel notes (design feedback received
+       Oct 20 — thank you, Jeff!); Fen's playtest feedback (pending)
+[OPEN] Next push green light pending (Nov 1: director winding up,
+       not ready yet); Tristan playtest package prepared Nov 1,
+       awaiting his Magnifier feedback; itch.io clickthrough
+       approved Nov 1 if assets are free and want credit
+
+Questions welcome. Direct them at James; he'll bring them to the table.
+All feedback is welcome — see playtester-feedback-form.txt.

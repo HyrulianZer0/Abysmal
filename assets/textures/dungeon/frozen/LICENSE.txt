@@ -1,0 +1,12 @@
+License: CC0 1.0 Universal (public domain). No attribution required;
+attribution below is given voluntarily, as credited on Poly Haven.
+Source: Poly Haven (polyhaven.com) — all assets CC0, downloaded
+directly, no account, no clickthrough. Only the diffuse/color map
+at 1K (1024x1024 JPG) was staged; normal/roughness/displacement
+maps were deliberately NOT downloaded, to keep the mobile build small.
+
+wall_diff_1k.jpg | Poly Haven asset: marble_rock_02 | Author: Amal Kumar
+floor_diff_1k.jpg | Poly Haven asset: snow_01 | Author: as credited on the Poly Haven asset page (not reproduced here; CC0 requires no attribution)
+NOTE: no true ice texture was found on Poly Haven under the probed slugs (ice_wall, glacier_ice, frozen_lake, ice_01 all 404) — the pale marble wall reads as frozen only under a cold/blue light tint at wiring time. No separate ceiling file — ceiling reuses wall_diff_1k.jpg.
+
+Staged 2026-10-27. NOT yet wired into game code (see README.md).

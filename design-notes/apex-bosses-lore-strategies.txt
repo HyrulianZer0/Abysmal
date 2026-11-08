@@ -1,0 +1,291 @@
+================================================================
+ABYSMAL — Apex Bosses: Lore & Strategies
+Producer/Director: Aethelwarden Solas
+================================================================
+
+The 16 named apex bosses of the roster. Each section gives lore drawn
+fresh from the figure's public-domain folklore roots (no borrowed game
+lore, stats, or designs), its attack patterns, and how to beat it.
+
+At the end: a PROPOSED boss -> body-slot mapping for the 16-slot
+signature-drop system (one boss per slot). PROPOSAL ONLY — James
+decides. Slots: head, face, neck, shoulders, chest, back (cape/cloak),
+arms, hands, waist, legs, feet, ring (left), ring (right), trinket,
+weapon, off-hand.
+
+================================================================
+1. CERBERUS — Greek, base: Hellhound
+================================================================
+LORE: The hound of Hades, guardian of the underworld's gates. Three
+heads, a serpent for a tail, a mane of snakes. He lets every soul in
+and none out. Heracles, as one of his labours, was permitted to wrestle
+him bare-handed — and did.
+ATTACKS:
+- Triple Bite: the three heads strike in sequence, front arc.
+- Tail Serpent: the tail lashes sideways with little warning.
+- Gate Roar: a bellow that staggers anything in front of him.
+COUNTERS: Fight from one flank so only one head tracks you. The roar
+has a long windup — step out of the front arc. Punish after the triple
+bite; the heads need a breath before the next set.
+
+================================================================
+2. MEDUSA — Greek, base: Gorgon
+================================================================
+LORE: Once a beautiful priestess, cursed so her hair became serpents
+and her gaze turned living flesh to stone. Perseus slew her using a
+mirrored shield so he never had to meet her eyes.
+ATTACKS:
+- Petrifying Gaze: telegraphed eye-glow; anyone facing her when it
+  fires is slowed, then stone-held.
+- Serpent Hair: the snakes strike independently, multi-hit, close
+  range.
+- Stone Shards: chips of old victims thrown as projectiles.
+COUNTERS: Turn or strafe during the gaze windup — never face it.
+Attack hard during the long gaze cooldown. The snakes are separate
+targets; clearing them buys safe windows.
+
+================================================================
+3. TYPHON — Greek, base: Ur-Dragon class
+================================================================
+LORE: The storm-giant the gods themselves fled — a hundred serpent
+heads, a voice of storms, father of monsters with Echidna. Zeus
+defeated him and buried him under Mount Etna; the volcano's rumbling
+is Typhon breathing below.
+ATTACKS:
+- Storm Winds: arena-wide gusts that knock you back.
+- Serpent Volley: the lesser heads spit projectiles in fans.
+- Eruption: ground bursts under the player, telegraphed by cracks.
+COUNTERS: Keep moving — the winds punish standing still. Step off
+cracked ground before eruption. The main head is the damage target;
+the lesser heads are a distraction to dodge, not to farm.
+
+================================================================
+4. ECHIDNA — Greek, base: Lamia class
+================================================================
+LORE: "Mother of Monsters" — half woman, half serpent, dwelling in a
+cave, mate of Typhon and mother of Cerberus, the Hydra, the Chimera
+and more. She does not hunt alone; her children do it for her.
+ATTACKS:
+- Brood Call: summons lesser monsters in waves.
+- Tail Sweep: a wide ground sweep around her coils.
+- Venom Spit: arcing poison pools.
+COUNTERS: Decide fast: burn her down and eat the swarm, or clear the
+brood first for a clean duel. Never stand in the sweep ring — fight
+from range or dive past the tail. Step out of venom pools at once.
+
+================================================================
+5. FENRIR — Norse, base: Great Wolf
+================================================================
+LORE: The monstrous wolf, son of Loki, who grew too great for the gods
+to leave loose. They bound him with Gleipnir, a chain forged from
+impossible things — a cat's footfall, a woman's beard, a fish's breath.
+Tyr lost a hand to the binding. At the end of the world, Fenrir breaks
+free and devours Odin.
+ATTACKS:
+- Bone Bite: a single crushing frontal bite.
+- Pounce: a long telegraphed leap, lands where you stood.
+- Death Howl: a fear stagger at close range.
+COUNTERS: Never trade the bite — it is a frontal cone, sidestep it.
+The pounce always lands where you were standing; keep moving and it
+misses by itself. Punish the long recovery after a missed pounce.
+
+================================================================
+6. JÖRMUNGANDR — Norse, base: World Wurm
+================================================================
+LORE: The world serpent, cast into the sea by Odin, where he grew
+until he encircled the whole world, tail in mouth. At the end of the
+world he rises to fight Thor, who kills him — and dies nine steps
+later from his venom.
+ATTACKS:
+- Tail Sweep: arena-edge sweeps; the rim of the room is dangerous.
+- Venom Spray: poison pools that linger.
+- Coil Surge: a rising wave that pushes the player back.
+COUNTERS: Poison resistance or a cleanse is near-mandatory. Fight
+near the head, not the rim — the tail owns the edges. Clear venom
+pools by moving, never by standing in them.
+
+================================================================
+7. SURTR — Norse, base: Fire Giant
+================================================================
+LORE: Lord of Muspelheim, the world of fire, keeper of a sword
+brighter than the sun. At the end of the world he marches south and
+his flames consume gods and earth alike.
+ATTACKS:
+- Flame Sword Arc: huge sweeping arcs, front and sides.
+- Fire Wave: a travelling wall of flame.
+- Eruption Pillars: fire columns under the player, telegraphed.
+COUNTERS: Fire resistance first. The sword arc has a slow windup and
+a long recovery — that recovery is your window. Never stand on
+scorched ground. Ranged attacks shine during fire-wave windup.
+
+================================================================
+8. FAFNIR — Norse, base: Elder Wyrm
+================================================================
+LORE: A dwarf, son of Hreidmar, who murdered his own father for cursed
+gold and became a dragon to guard it, sleeping on the hoard. Sigurd
+slew him by digging a pit in his path and striking from below, then
+tasted the dragon's blood and understood the speech of birds.
+ATTACKS:
+- Poison Breath: a frontal cone of lingering venom cloud.
+- Tail Sweep: a heavy rear arc.
+- Hoard Charge: a straight-line rush across the room.
+COUNTERS: Poison resistance. Stay to the flank — the breath is
+frontal, the tail is rear. Sidestep the charge; it cannot turn, and
+the recovery after it is the best damage window in the fight.
+
+================================================================
+9. BABA YAGA — Slavic, base: Witch
+================================================================
+LORE: The witch of the deep forest, living in a hut that stands on
+chicken legs and turns to face whoever approaches, behind a fence
+topped with skulls. She flies in a mortar, steering with a pestle,
+sweeping her trail away with a broom. Heroes who answer her questions
+right may leave with a gift; the rude become dinner.
+ATTACKS:
+- Mortar Dive: a flying slam, telegraphed by its shadow.
+- Pestle Sweep: wide melee arcs.
+- Skull Volley: fence skulls fire projectiles.
+- Hex: a casting debuff that slows and weakens.
+COUNTERS: Watch the shadow, not the witch — the dive lands on the
+shadow. Interrupt the hex cast. Destroy skull totems to thin the
+volley. She pauses after a dive; that is the opening.
+
+================================================================
+10. KOSCHEI THE DEATHLESS — Slavic, base: Lich
+================================================================
+LORE: Koschei cannot be killed because his death is not in him. It is
+hidden: a needle, inside an egg, inside a duck, inside a hare, inside
+an iron chest, buried or locked away far from his body. Find the
+needle and break it, and the Deathless dies like anyone else.
+ATTACKS:
+- Death Bolts: heavy ranged magic.
+- Deathless Guard: invulnerable phases while a hidden vessel lives.
+- Bone Summons: skeletal adds that screen him.
+- Life Drain: a channeled beam that heals him.
+COUNTERS: Each phase, find and break the hidden vessel — that ends
+the invulnerable phase. Interrupt the drain channel at all costs.
+Ignore the summons when a vessel is exposed; they are the distraction.
+
+================================================================
+11. HUMBABA — Mesopotamian, base: Cedar Guardian
+================================================================
+LORE: Guardian of the Cedar Forest, appointed by the god Enlil, from
+the oldest written story we have — Gilgamesh, carved some four
+thousand years ago. His face is terror, his voice is a flood, his
+breath is fire. Gilgamesh and Enkidu slew him and took the cedars.
+ATTACKS:
+- Cedar Slam: trunk-sized arms smash the ground, shockwave ring.
+- Terror Roar: a fear stagger in a wide radius.
+- Root Snare: vines erupt under the player, telegraphed by cracks.
+- Boulder Throw: slow, heavy, arena-wide AoE.
+COUNTERS: Step off cracked ground before the snare erupts. The slam
+recovery is long — that is the window. Spread out from the roar's
+center. Boulders are slow; one sidestep clears them.
+
+================================================================
+12. SHUTEN-DŌJI — Japanese, base: Oni
+================================================================
+LORE: The drunken demon king of Mount Ōe, who raided the capital and
+carried off maidens to his mountain palace. Minamoto no Raikō and his
+retainers defeated him the clever way: they got him drunk on poisoned
+sake, waited for him to sleep, and struck while he dreamed.
+ATTACKS:
+- Great Club Slam: slow, devastating overhead blows.
+- Sake Breath: a drunken haze that confuses and slows.
+- Oni Charge: a bull rush across the room.
+- Drunken Frenzy: he speeds up as the fight goes on.
+COUNTERS: Never trade the club — dodge the windup, always. He pauses
+to drink mid-fight; that pause is the legendary opening, take it.
+Confusion protection or distance beats the sake breath. End it fast:
+frenzy means the fight gets harder the longer it lasts.
+
+================================================================
+13. YAMATA NO OROCHI — Japanese, base: Hydra
+================================================================
+LORE: The eight-headed, eight-tailed serpent that demanded a maiden a
+year from a grieving family. Susanoo, god of storms, set out eight vats
+of sake, waited for all eight heads to drink and sleep, and cut the
+serpent down — finding the great sword Kusanagi in its tail.
+ATTACKS:
+- Eight-Head Volley: bites from many angles at once.
+- Drunken Stagger: after drinking, the heads droop and slow.
+- Tail Sweep: a massive rear arc from eight tails.
+- Storm Breath: a wide elemental cone.
+COUNTERS: Focus one head at a time — each head downed thins the
+volley. When the heads droop after drinking, that is the damage
+window. Never stand in the tail arc; the front is safer than the rear.
+
+================================================================
+14. RAVANA — Hindu epic, base: Rakshasa
+================================================================
+LORE: The ten-headed demon king of Lanka from the Ramayana, scholar,
+musician, and warrior, who abducted Sita and would not yield her.
+Rama, aided by Hanuman's army, besieged Lanka and slew him after a
+duel that shook the island.
+ATTACKS:
+- Ten-Head Volley: multi-projectile fans from many heads.
+- Sorcery Bolts: heavy aimed magic.
+- Blade Flurry: a fast melee storm at close range.
+- Illusion Doubles: phantom Ravanas that mirror his attacks.
+COUNTERS: The true Ravana's illusions flicker — learn the tell and
+ignore the fakes. Dodge volleys laterally, never backward. The blade
+flurry has a long recovery; that is the punish window.
+
+================================================================
+15. ANZU — Mesopotamian, base: Anzu
+================================================================
+LORE: The great storm-bird, lion-headed eagle, who stole the Tablet of
+Destinies from Enlil and hid it on a mountain. The god Ninurta hunted
+him down and took it back. The storm itself was his accomplice.
+ATTACKS:
+- Storm Dive: a plunging aerial slam, telegraphed by shadow.
+- Wind Gusts: knockback walls across the room.
+- Lightning Strikes: marked ground zones that detonate.
+- Tablet Pulse: a radial shockwave.
+COUNTERS: Move out of marked zones before lightning lands. The dive
+recovery is long — punish it. Position with your back to a wall so
+gusts cannot throw you into hazards.
+
+================================================================
+16. THE TARASQUE — French, base: Tarasque
+================================================================
+LORE: The river-dragon of the Rhône at Tarascon: lion's head, ox's
+body, tortoise shell, six legs, a serpent's tail. Knights could not
+kill it; in the old telling it was Saint Martha who tamed it — not
+with a sword, but with prayer and a ribbon.
+ATTACKS:
+- Shell Charge: a rolling charge, fast in a straight line.
+- Tail Lash: a heavy rear arc.
+- River Surge: a water wave across the room.
+- Bite: a short-range snap.
+COUNTERS: Sidestep the charge — it cannot turn, and the recovery is
+long. The shell shrugs off frontal hits; attack the softer underside
+after a missed charge. Water resistance helps against the surge.
+
+================================================================
+PROPOSED BOSS -> BODY-SLOT MAPPING (James decides)
+================================================================
+One boss per slot. Each boss's signature drop is a weapon or armor
+piece for its slot — 16 bosses, one full set to chase.
+
+- Head        — Cerberus       (three-headed guardian helm)
+- Face        — Medusa         (petrifying visage mask)
+- Neck        — Echidna        (serpent-coil torc)
+- Shoulders   — Fafnir         (dragon-scale pauldrons)
+- Chest       — Typhon         (storm-giant stormplate)
+- Back        — The Tarasque   (river-dragon shell cape)
+- Arms        — Humbaba        (cedar-bark vambraces)
+- Hands       — Fenrir         (wolf-claw gauntlets)
+- Waist       — Jörmungandr    (world-serpent belt)
+- Legs        — Yamata no Orochi (eight-tail scale greaves)
+- Feet        — Anzu           (storm-bird talon boots)
+- Ring (left) — Koschei        (death-needle ring)
+- Ring (right)— Ravana         (ten-headed signet)
+- Trinket     — Baba Yaga      (chicken-legged hut charm)
+- Weapon      — Surtr          (world-fire sword)
+- Off-hand    — Shuten-dōji    (demon king's sake gourd)
+
+Notes on the mapping: Surtr's sword and Orochi's tail-sword (Kusanagi)
+both compete for Weapon — Surtr takes it, Orochi's greaves carry the
+serpent's scale instead; Kusanagi can still appear in Orochi's lore.
+Koschei's ring and Ravana's signet give both ring slots a story.

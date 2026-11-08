@@ -1,0 +1,149 @@
+ABYSMAL — Apex Uniques: Suggestions
+Producer/Director: Aethelwarden Solas
+
+STATUS: ACCEPTED by James, Oct 29, 2026. The 16 items below are the
+apex unique set. Effect numbers remain provisional and must be tuned
+against the locked balance curves, not set by this doc.
+
+1. CERBERUS — Head
+   Item: Gatekeeper's Triune Helm
+   Effect: Ambush first-strikes lose their free hit (mimic bites,
+   trap lunges, anything that strikes before you can act). Small DEF.
+   Why: Three heads watch every direction; the gate lets none out
+   unannounced. The helm means nothing ever catches your back turned.
+
+2. MEDUSA — Face
+   Item: Visage of the Gorgon (mask)
+   Effect: Your crits have a chance to petrify — the target slows,
+   then is briefly stone-held.
+   Why: Her gaze is the weapon, and the face slot is where a gaze
+   lives. You wear the monster's curse and turn it outward.
+
+3. ECHIDNA — Neck
+   Item: Torc of the Broodmother
+   Effect: Bonus monster-material yield — the Mother's children
+   bring you tribute.
+   Why: She never hunts alone; her brood does it for her. The torc
+   makes every brood you meet pay a tithe in materials.
+
+4. FAFNIR — Shoulders
+   Item: Pauldrons of the Hoard
+   Effect: Bonus gold from kills and loot. Small poison resistance.
+   Why: He murdered for cursed gold and slept on it. Greed, worn on
+   the shoulders, pays you back. The poison resist nods to his breath.
+
+5. TYPHON — Chest
+   Item: Stormplate of the Hundred Heads
+   Effect: You cannot be knocked back, and melee attackers take
+   storm damage in return.
+   Why: The storm-giant the gods fled. His plate makes you the
+   mountain the wind breaks against, and the storm answers back.
+
+6. THE TARASQUE — Back (cape/cloak)
+   Item: Shellcloak of the River
+   Effect: Bonus DEF, and damage from frontal attacks is reduced.
+   Why: The shell that shrugged off knights' swords. Worn as a cape,
+   it turns your front into a wall — the way Martha tamed it, not
+   with a sword, but the shell still does the work.
+
+7. HUMBABA — Arms
+   Item: Cedar Vambraces of the Warden
+   Effect: Your melee hits send a small shockwave, splashing damage
+   to adjacent enemies.
+   Why: Trunk-sized arms that smashed the ground. The vambraces put
+   his Cedar Slam in your fists.
+
+8. FENRIR — Hands
+   Item: Gauntlets of Gleipnir's Bite
+   Effect: Bonus crit damage (feeds the crit-overflow rule), and your
+   crits briefly stagger the target.
+   Why: The bite that took Tyr's hand, bound by an impossible chain.
+   Hands are where his story lives — crushing bite, binding chain.
+
+9. JORMUNGANDR — Waist
+   Item: Ouroboros Belt of the World Serpent
+   Effect: Slow HP regen, and poison damage is reduced to a trickle.
+   Why: Tail in mouth, endless renewal. Thor died of the serpent's
+   venom nine steps later — the belt makes sure venom never finishes
+   you.
+
+10. YAMATA NO OROCHI — Legs
+    Item: Greaves of the Eightfold Scale
+    Effect: Bonus move speed, and slowing ground effects (venom pools,
+    snares, mire) cannot slow you.
+    Why: Eight heads, eight tails, sure footing through any storm.
+    The greaves carry the serpent's scale — not Kusanagi, which stays
+    in Orochi's lore, per the earlier mapping note.
+
+11. ANZU — Feet
+    Item: Talon Boots of the Tablet Thief
+    Effect: Bonus move speed and lightning resistance; your steps
+    carry a whisper of the storm.
+    Why: The storm-bird himself was the storm's accomplice. Feet are
+    for the dive, the gust, the getaway — the boots keep you ahead
+    of the lightning you used to flee.
+
+12. KOSCHEI THE DEATHLESS — Ring (left)
+    Item: Needle Ring of the Deathless
+    Effect: Once per life, a lethal hit leaves you at 1 HP instead.
+    The ring then sleeps until your next life.
+    Why: His death was never in him — needle, egg, duck, hare, chest.
+    The ring hides a sliver of your death somewhere else, so the
+    killing blow finds nothing to take.
+
+13. RAVANA — Ring (right)
+    Item: Signet of Ten Crowns
+    Effect: Your attacks have a chance to strike twice — a phantom
+    echo mirrors your blow.
+    Why: Ten heads, and illusion doubles that mirror his attacks.
+    The signet lends you one of his heads: a second strike from
+    nowhere.
+
+14. BABA YAGA — Trinket
+    Item: Hut Charm on Chicken Legs
+    Effect: Bonus loot rarity/quality, and a small chance a defeated
+    enemy drops a bonus "gift" roll.
+    Why: Answer her questions right and you leave with a gift; rude
+    guests become dinner. The charm is the polite answer, carried
+    with you — the forest's gifts keep finding you.
+
+15. SURTR — Weapon
+    Item: Dawnblade of Muspelheim
+    Effect: Every swing deals bonus fire damage; crits erupt in a
+    small burst of flame around the target.
+    Why: The sword brighter than the sun, lord of the world of fire.
+    The weapon slot was always his — the blade that ends worlds,
+    sized for one hand.
+
+16. SHUTEN-DOJI — Off-hand
+    Item: Gourd of the Drunken King
+    Effect: Sip from the gourd to heal and gain a brief attack and
+    speed surge; the longer a fight lasts, the stronger the frenzy
+    grows.
+    Why: He was beaten the clever way — drunk on poisoned sake, struck
+    while he dreamed. The gourd turns his weakness into your ritual:
+    drink, surge, and end it before the frenzy ends you.
+
+OPEN QUESTIONS (James's call):
+SET BONUSES — ACCEPTED by James, Oct 29, 2026. Tiers are cumulative:
+wearing 8 pieces grants the 4- and 8-piece bonuses, and so on.
+Numbers provisional; tune against locked curves.
+- 4 pieces — "Monster's Regard": bonus max HP. The relics steady
+  your body; the dungeon's weight sits easier on a warden-in-making.
+- 8 pieces — "Apex Authority": non-apex monsters deal reduced damage
+  to you. Lesser denizens recognize what you wear and pull their blows.
+- 12 pieces — "Warden's Tithe": town buildings produce bonus Hope.
+  The Abyss pays tribute to its warden, feeding the Life Tree sink.
+- 16 pieces — CAPSTONE: "Crown of the Deep" — bonus damage to all
+  monsters, apex-tier included, and they deal reduced damage to you.
+  The Crown is the conqueror's crown, perfect for one who defeated
+  all 16 apexes. Whether the crown serves good or evil is not a
+  capstone choice — it is shown through the player's actions. There
+  is no endgame in which the world or universe can be destroyed, so
+  the stakes are personal, not cosmic.
+- No-set-bonus option declined by James Oct 29 (he loves the ladder).
+- Revisions: James approved all 16 as written Oct 29; any future
+  change is his call. Warden of the Abyss capstone removed Oct 29
+  per James; Crown of the Deep is the sole capstone.
+- Effect numbers: all provisional. Tune against the locked curves
+  when wiring, never from this doc alone.

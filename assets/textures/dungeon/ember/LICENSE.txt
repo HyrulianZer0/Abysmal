@@ -1,0 +1,12 @@
+License: CC0 1.0 Universal (public domain). No attribution required;
+attribution below is given voluntarily, as credited on Poly Haven.
+Source: Poly Haven (polyhaven.com) — all assets CC0, downloaded
+directly, no account, no clickthrough. Only the diffuse/color map
+at 1K (1024x1024 JPG) was staged; normal/roughness/displacement
+maps were deliberately NOT downloaded, to keep the mobile build small.
+
+wall_diff_1k.jpg | Poly Haven asset: volcanic_rock_tiles | Author: Charlotte Baglioni
+floor_diff_1k.jpg | Poly Haven asset: tarred_gravel | Author: Dimitrios Savva
+ceiling_diff_1k.jpg | Poly Haven asset: rock_boulder_dry | Author: as credited on the Poly Haven asset page (not reproduced here; CC0 requires no attribution)
+
+Staged 2026-10-27. NOT yet wired into game code (see README.md).
