@@ -518,14 +518,30 @@ func _theme_textures_ok(theme: Dictionary) -> bool:
 ## generates the .ctex artifacts). Decoded textures are cached per view
 ## instance and labelled with their source path so tests and debugging see
 ## the same resource_path an imported texture would carry.
+## NOTE: the fallback MUST read via FileAccess, not Image.load_from_file:
+## in an exported build the source file lives inside the .pck, not on the
+## OS filesystem, so load_from_file cannot see it. FileAccess reads res://
+## paths from the .pck, and load_*_from_buffer decodes the bytes.
 func _load_theme_tex(path: String) -> Texture2D:
 	var t := load(path) as Texture2D
 	if t != null:
 		return t
 	if _tex_cache.has(path):
 		return _tex_cache[path]
-	var img := Image.load_from_file(path)
-	if img == null:
+	var f := FileAccess.open(path, FileAccess.READ)
+	if f == null:
+		return null
+	var bytes := f.get_buffer(f.get_length())
+	f.close()
+	var img := Image.new()
+	var err := FAILED
+	if path.ends_with(".jpg") or path.ends_with(".jpeg"):
+		err = img.load_jpg_from_buffer(bytes)
+	elif path.ends_with(".png"):
+		err = img.load_png_from_buffer(bytes)
+	else:
+		return null
+	if err != OK:
 		return null
 	var itex := ImageTexture.create_from_image(img)
 	itex.take_over_path(path)
